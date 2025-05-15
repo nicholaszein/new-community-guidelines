@@ -44,7 +44,7 @@ body:
       attributes:
           label: "Description"
           description: "Please share your thoughts, feedback, or questions about the Editor V4 below."
-          placeholder: "Start a discussion..."
+          placeholder: "Start a discussion about the Editor V4..."
     - type: markdown
       attributes:
           value: |
