@@ -18,9 +18,9 @@ contact_links:
     # - name: 🔧 Fix Common Issues
     #   url: https://elemn.to/help-troubleshooting
     #   about: Troubleshoot the most frequent problems.
-    - name: 📑 Help Center
-      url: https://elemn.to/help
-      about: Find answers to common issues and learn how to use Elementor more effectively in our Help Center.
+    # - name: 📑 Help Center
+    #   url: https://elemn.to/help
+    #   about: Find answers to common issues and learn how to use Elementor more effectively in our Help Center.
     # - name: 🎓 Elementor Academy
     #   url: https://elemn.to/academy
     #   about: Grow your Web Creator skills with in-depth lessons and tutorials from Elementor Academy.on upcoming features.
