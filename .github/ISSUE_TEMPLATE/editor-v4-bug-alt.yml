@@ -1,16 +1,18 @@
-name: "🐞 Report a Confirmed Bug in Elementor [Alt]"
-description: "Found a reproducible bug in Elementor's source code after troubleshooting? Submit it here to help us improve."
-labels: ["status/awaiting_triage"]
+name: "🐛 Report a Confirmed Bug in Editor V4 [Alt]"
+description: "Report confirmed bugs in Editor V4's experimental features and help us improve the experience before the final release."
+labels: ["status/awaiting_triage", "product/editor-v4"]
 body:
     - type: markdown
       attributes:
           value: |
-              # 🐞 Report a Confirmed Bug in Elementor [Alt]
+              # 🐛 Report a Confirmed Bug in Elementor Editor V4 [Alt]
               <br>
 
-              👋 **Hello, welcome to Elementor's repository!**
+              👋 **Welcome, and thank you for helping shape the future of Elementor!**
 
-              Thank you for contributing — your input helps make **Elementor** better for everyone!
+              We're excited to introduce the **Editor V4** — a refreshed foundation for the Elementor Editor that improves performance, responsiveness, and workflow experience.
+
+              Your feedback is incredibly valuable. Use this form to report bugs related to Editor V4's experimental features. Every report helps us create a better product before its full release.
               <br>
 
               ## 🧭 Guidelines
@@ -19,26 +21,28 @@ body:
               <br>
 
               > [!IMPORTANT]
-              > ### 🐞 This form is specifically for <ins>reporting confirmed Elementor bugs</ins>.
-              > **We welcome your input, but please only use this form if you've already investigated and validated that the issue is caused by Elementor itself.**
-              > 
-              > Take a look at the 🎯 **Scope** section below to understand which types of reports are not handled here.
+              > ### 🐛 This form is for reporting <ins>confirmed bugs in Editor V4</ins> experimental features only.
+              > **We welcome your input, but please only use this form if you've already investigated and confirmed that the issue is caused specifically by Editor V4 features.**
               >
-              > ⚠️ _**Submitting unrelated or incomplete issues may result in them being closed without further action.**_
+              > Keep in mind the **Editor V4 is a work in progress**, is subject to changes or instability during development, and should not be used on production sites.
+              >
+              > 🧪 For discussing and sharing feedback about the Editor V4, please go to the dedicated Discussion Category instead: **[Discuss the Editor V4](https://github.com/nicholaszein/new-community-guidelines/discussions/categories/editor-v4)**
+              >
+              > ❔ For frequent questions, check the **[Editor V4 FAQ](elemn.to/editor-v4-faq).**
+              >
+              > ⚠️ _**Reports that are unrelated to Editor V4 or missing required information may be closed without further review.**_
               <br>
 
               <details>
               <summary>
               <h3>📋 Requirements</h3>
-
+              
               For a quick review and efficient resolution, please ensure your report meets the following requirements:
               </summary>
 
               - *️⃣ **All fields in this form are required** — no exceptions. <br>Incomplete issues will be closed without further action.
 
-              - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by **[using the filters at the top of the Issues list](https://github.com/nicholaszein/new-community-guidelines/issues)** to narrow your search.
-
-              - 🆕 **Ensure you have the latest stable versions installed.** <br>Including Elementor, Elementor Pro, WordPress core, your active theme, and all installed plugins. <br>👉 Stay updated: **[Elementor Changelogs](https://elemn.to/changelog)**
+              - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[editor-v4](https://github.com/nicholaszein/new-community-guidelines/issues?q=is%3Aissue%20state%3Aopen%20label%3Aproduct%2Feditor-v4)** label to narrow your search.
 
               - 🗑️ **Clear all relevant cache layers.** <br>Confirm the issue is not being caused by stale or cached data. <br>Please clear server cache, site-level cache (including plugin-based cache), CDN cache, and your browser cache — in that order.
 
@@ -53,9 +57,11 @@ body:
               <details>
               <summary>
               <h3>🎯 Scope</h3>
-
-              To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These types of issues will be **closed without further action**.
+              
+              To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These types of issues will be **closed without further action**. 
               </summary>
+
+              - 🐞 **Issues unrelated to bugs in the Editor V4.** <br>If you're here to report issues with existing features of Elementor V3, please **[use our general 🐞 Bug Report form instead](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=bug.yml)**.
 
               - 🛟 **Requests for personal support** <br>This includes help with setup, troubleshooting, or usage guidance. For that, please contact our **[official support channels](https://elemn.to/support-ticket)**.
 
@@ -71,7 +77,7 @@ body:
 
               - ❌ **Incomplete, invalid, or out-of-scope reports.** <br>Issues without clear steps to reproduce, missing required fields, or unrelated to Elementor or Elementor Pro will be closed without further action.
               </details>
-
+              
               ## 📝 Instructions
 
               To help us understand and resolve your issue, please follow these best practices:
@@ -140,5 +146,5 @@ body:
           options:
               - label: "I confirm I have read and followed all the guidelines and instructions outlined in the Editor V4 Bug Report form."
                 required: true
-              - label: "I agree that my issue may be closed without further action if it doesn't meet all the requirements outlined in the Elementor Bug Report form."
+              - label: "I agree that my issue may be closed without further action if it doesn't meet all the requirements outlined in the Editor V4 Bug Report form."
                 required: true
