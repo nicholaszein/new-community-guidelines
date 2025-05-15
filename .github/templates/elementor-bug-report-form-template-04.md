@@ -5,14 +5,12 @@
 >
 > This is just a preview, and this note will not be part of the final form.
 
-# 🐛 Report a Confirmed Bug in Elementor Editor V4
+# 🐞 Report a Confirmed Bug in Elementor
 <br>
 
-👋 **Welcome, and thank you for helping shape the future of Elementor!**
+👋 **Hello, welcome to Elementor's repository!**
 
-We’re excited to introduce the **Editor V4** — a refreshed foundation for the Elementor Editor that improves performance, responsiveness, and workflow experience.
-
-Your feedback is incredibly valuable. Use this form to report bugs related to Editor V4’s experimental features. Every report helps us create a better product before its full release.
+Thank you for contributing — your input helps make **Elementor** better for everyone!
 <br>
 <br>
 
@@ -21,17 +19,21 @@ Your feedback is incredibly valuable. Use this form to report bugs related to Ed
 Before getting started, please take a moment to review our **[Contribution Guidelines](#)** and **[Code of Conduct](#)**. These help us keep this space respectful, organized, and inclusive for everyone.
 
 > [!IMPORTANT]
-> ### 🐛 This form is for reporting <ins>confirmed bugs in Editor V4</ins> experimental features only.
-> Please only use this form if you've already investigated and confirmed that the issue is caused specifically by Editor V4 components.
-> If your issue is unrelated to Editor V4 features, or if you're here for another reason please **[use our general 🐞 Bug Report form instead](#)**.
+> ### 🐞 This form is specifically for <ins>reporting confirmed Elementor bugs</ins>.
+> We welcome your input, but please **only use this form if you've already investigated and validated that the issue is caused by Elementor itself**.
+> If you’re here for another reason, please use one of the 🔗 **Quick Links** at the end of this form.
+> 
+> Take a look at the 🎯 **Scope** section below to understand which types of reports are not handled here.
 >
-> Keep in mind the **Editor V4** is a work in progress and should not be used on production sites. It may not include all features from Elementor V3 and is subject to changes or instability during development.
->
-> 🧪 For discussing and sharing feedback about the Editor V4, please go to the dedicated Discussion Category instead: **[Discuss the Editor V4](#)**
->
-> ❔ For frequent questions, check the **[Editor V4 FAQ](#).**
->
-> ⚠️ _**Reports that are unrelated to Editor V4 or missing required information may be closed without further review.**_
+> ⚠️ _**Submitting unrelated or incomplete issues may result in them being closed without further action.**_
+<br>
+
+> [!NOTE]
+> ### 🧪 Elementor Editor V4
+> If you are testing the new **[Editor V4](https://elemn.to/editor-v4)** experimental features and wish to report bugs or share feedback, please use one of the forms below:
+> 
+> 🐛 **[Report bugs specific to Editor V4](#)**  
+> 🗣️ **[Discuss and share feedback about the Editor V4](#)**
 <br>
 
 ### 📋 Requirements
@@ -40,7 +42,9 @@ For a quick review and efficient resolution, please ensure your report meets the
 
 - *️⃣ **All fields in this form are required** — no exceptions. <br>Incomplete issues will be closed without further action.
 
-- 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[editor-v4](https://github.com/elementor/elementor/labels/product%2Feditor-v4)** label to narrow your search.
+- 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[filters at the top of the Issues list](#)** to narrow your search.
+
+- 🆕 **Ensure you have the latest stable versions installed.** <br>Including Elementor, Elementor Pro, WordPress core, your active theme, and all installed plugins. <br>👉 Stay updated: **[Elementor Changelogs](https://elemn.to/changelog)**
 
 - 🗑️ **Clear all relevant cache layers.** <br>Confirm the issue is not being caused by stale or cached data. <br>Please clear server cache, site-level cache (including plugin-based cache), CDN cache, and your browser cache — in that order.
 
@@ -57,8 +61,6 @@ For a quick review and efficient resolution, please ensure your report meets the
 ### 🎯 Scope
 
 To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These types of issues will be **closed without further action**. 
-
-- 🐞 **Issues unrelated to bugs in the Editor V4.** <br>If you're here to report issues with existing features of Elementor V3, please **[use our general 🐞 Bug Report form instead](#)**.
 
 - 🛟 **Requests for personal support** <br>This includes help with setup, troubleshooting, or usage guidance. For that, please contact our **[official support channels](https://elemn.to/support-ticket)**.
 
@@ -81,7 +83,7 @@ To keep this repository focused and efficient, there are some types of reports t
 
 To make it easier for the team to understand and resolve your issue, please follow these best practices:
 
-- ✒️ **Use a clear and descriptive title** <br>A good title helps everyone quickly understand what the issue is about. Try to summarize the problem in a few words.
+- ✒️ **Use a clear and descriptive title.** <br>A good title helps everyone quickly understand what the issue is about. Try to summarize the problem in a few words.
 
 - 💬 **Describe the issue in detail.** <br>Include as much context as you can. What happened? When did it start? What page or feature does it affect? <br>Feel free to attach screenshots or screen recordings — just drag and drop them into the text field when filling out the form.
 
@@ -93,7 +95,7 @@ To make it easier for the team to understand and resolve your issue, please foll
 > The form starts here. All sections below this note represent the actual fields in the form.
 
 ### Description*
-Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots or screen recordings — just drag and drop them into the field below.
+Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots, screen recordings — just drag and drop them into the field below.
 
 ```txt
 Leave a comment
@@ -132,13 +134,23 @@ Explain what you expected to happen. Help us understand what you believe the cor
 ### Agreement*
 By filling out this form, you confirm that you have read and followed the guidelines and instructions outlined above, and you agree that your issue may be closed without further action if it doesn't meet them.
 
-- [ ] I confirm I have read and followed all the guidelines and instructions outlined in the Editor V4 Bug Report form.
-- [ ] I agree that my issue may be closed without further action if it doesn't meet all the requirements outlined in the Editor V4 Bug Report form.
+- [ ] I confirm I have read and followed all the guidelines and instructions outlined in the Bug Report form.
+- [ ] I agree that my issue may be closed without further action if it doesn't meet all the requirements outlined in the Bug Report form.
 
 ----
 ## 🔗 Quick Links
 
 Need something else? These links will help you get support, learn, or contribute in the right place:
+
+- 🐛 **Editor V4 Bug Reports** — Report issues with **Editor V4**. [https://elemn.to/editor-v4-bugs](#)
+
+- 🧪 **Editor V4 Discussion** — Share your feedback! [https://elemn.to/editor-v4-discussion](#)
+
+- ❔ **Editor V4 FAQ** — Read the most frequent questions about **Editor V4**. [https://elemn.to/editor-v4-faq](#)
+
+- 🚀 **Feature Requests** — Suggest new ideas or improvements. https://elemn.to/gh-feature-requests
+
+- 🚩 **Elementor Roadmap** — Check what’s coming next. https://elemn.to/roadmap
 
 - 🛟 **Get Personal Support** — Need help or guidance? https://elemn.to/support-ticket
 
@@ -150,21 +162,11 @@ Need something else? These links will help you get support, learn, or contribute
 
 - 💬 **Discord Community** — Chat with other Web Creators. https://elemn.to/discord
 
-- 🌍 **Facebook Community** — Help and get help from other Elementor users. https://elemn.to/community-on-fb
+- 🌍 **Facebook Global Community** — Help and get help from other Elementor users. https://elemn.to/community-on-fb
 
 - 🌐 **Developers Community** — Share code tips and ask other devs about extending with Elementor. https://elemn.to/dev-community
 
 - 📚 **Developers Center** — For extending Elementor via API or custom code. https://elemn.to/dev-center
-
-- 🐞 **General Bug Reports** — Report confirmed bugs in Elementor V3. https://elemn.to/gh-issues
-
-- 🚀 **Feature Requests** — Suggest new ideas or improvements. https://elemn.to/gh-feature-requests
-
-- 🚩 **Elementor Roadmap** — Check what’s coming next. https://elemn.to/roadmap
-
-- 🧪 **Editor V4 Discussion** — Share your feedback! [https://elemn.to/editor-v4-discussion](#)
-
-- ❔ **Editor V4 FAQ** — Read the most frequent questions about **Editor V4**. [https://elemn.to/editor-v4-faq](#)
 
 - 📖 **Contribution Guidelines** — Learn how to contribute to this repository. https://elemn.to/gh-contributing
 

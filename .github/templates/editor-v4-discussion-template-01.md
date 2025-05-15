@@ -66,6 +66,16 @@ By filling out this form, you confirm that you have read the guidelines outlined
 
 Need something else? These links will help you get support, learn, or contribute in the right place:
 
+- 🐛 **Editor V4 Bug Reports** — Report issues with **Editor V4**. [https://elemn.to/editor-v4-bugs](#)
+
+- ❔ **Editor V4 FAQ** — Read the most frequent questions about **Editor V4**. [https://elemn.to/editor-v4-faq](#)
+
+- 🐞 **General Bug Reports** — Report confirmed bugs in Elementor V3. https://elemn.to/gh-issues
+
+- 🚀 **Feature Requests** — Suggest new ideas or improvements. https://elemn.to/gh-feature-requests
+
+- 🚩 **Elementor Roadmap** — Check what’s coming next. https://elemn.to/roadmap
+
 - 🛟 **Get Personal Support** — Need help or guidance? https://elemn.to/support-ticket
 
 - 🔧 **Fix Common Issues** — Troubleshoot the most frequent problems. https://elemn.to/help-troubleshooting
@@ -76,19 +86,11 @@ Need something else? These links will help you get support, learn, or contribute
 
 - 💬 **Discord Community** — Chat with other Web Creators. https://elemn.to/discord
 
-- 🌍 **Facebook Community** — Help and get help from other Elementor users. https://elemn.to/community-on-fb
+- 🌍 **Facebook Global Community** — Help and get help from other Elementor users. https://elemn.to/community-on-fb
 
 - 🌐 **Developers Community** — Share code tips and ask other devs about extending with Elementor. https://elemn.to/dev-community
 
 - 📚 **Developers Center** — For extending Elementor via API or custom code. https://elemn.to/dev-center
-
-- 🚀 **Feature Requests** — Suggest new ideas or improvements. https://elemn.to/gh-feature-requests
-
-- 🚩 **Elementor Roadmap** — Check what’s coming next. https://elemn.to/roadmap
-
-- 🐛 **Editor V4 Bug Reports** — Report issues with **Editor V4**. [https://elemn.to/editor-v4-bugs](#)
-
-- ❔ **Editor V4 FAQ** — Read the most frequent questions about **Editor V4**. [https://elemn.to/editor-v4-faq](#)
 
 - 📖 **Contribution Guidelines** — Learn how to contribute to this repository. https://elemn.to/gh-contributing
 
