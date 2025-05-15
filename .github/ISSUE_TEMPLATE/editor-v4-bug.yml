@@ -91,7 +91,7 @@ body:
       attributes:
           label: "Description"
           description: "Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots or screen recordings — just drag and drop them into the field below."
-          placeholder: "Examples: \nChanging a Global Class in the Class Manager doesn't update all linked elements... \nThe Style Indicator shows conflicting styles even when no class is applied... \nThe Actions Bar doesn't appear when hovering over a nested Flex Container..."
+          placeholder: "Examples: \nWhen I try to edit a Global Class in the Class Manager... \nThe Style Indicator in the {element_name} for the class... \nWhen I apply a Variable... n\..."
     - type: markdown
       attributes:
           value: |
@@ -103,7 +103,7 @@ body:
       attributes:
           label: "Steps to reproduce"
           description: "List all steps to reproduce the issue. Be specific! We need to follow the exact steps you took to reproduce the issue, ideally on a clean WordPress installation."
-          placeholder: "Examples: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the widget... \n4. Save the post and click on preview..."
+          placeholder: "Example: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the {widget_name} element... \n4. ..."
     - type: markdown
       attributes:
           value: |
@@ -115,7 +115,7 @@ body:
       attributes:
           label: "Expected behavior"
           description: "Explain what you expected to happen. Help us understand what you believe the correct or intended behavior should be. This helps us identify the root of the issue faster."
-          placeholder: "Examples: \n1. When I apply a style to {widget} I expect it to... \n2. According to the Documentation in the Help Center... \n3. ..."
+          placeholder: "Examples: \nWhen I apply a style to {widget_name} I expect it to... \nWhen I visit a page in the fontend, I expect... \nAccording to the Documentation in the Help Center... \n..."
     - type: markdown
       attributes:
           value: |
