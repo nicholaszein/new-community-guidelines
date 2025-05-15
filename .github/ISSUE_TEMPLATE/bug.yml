@@ -141,7 +141,7 @@ body:
           label: "Agreement"
           description: "By filling out this form, you confirm that you have read and followed the guidelines and instructions outlined above, and you agree that your issue may be closed without further action if it doesn't meet them."
           options:
-              - label: "I confirm I have read and followed all the guidelines and instructions outlined in the Editor V4 Bug Report form."
+              - label: "I confirm I have read and followed all the guidelines and instructions outlined in the Elementor Bug Report form."
                 required: true
-              - label: "I agree that my issue may be closed without further action if it doesn't meet all the requirements outlined in the Editor V4 Bug Report form."
+              - label: "I agree that my issue may be closed without further action if it doesn't meet all the requirements outlined in the Elementor Bug Report form."
                 required: true
