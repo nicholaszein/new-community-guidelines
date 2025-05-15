@@ -94,7 +94,7 @@ body:
           required: true
       attributes:
           label: "Description"
-          description: "Describe the issue in detail and include as much context as possible. Feel free to attach screenshots or screen recordings — just drag and drop them into the field below."
+          description: "Describe the issue in detail and include as much context as possible. <br><br>Feel free to attach screenshots or screen recordings — just drag and drop them into the field below."
           placeholder: "Please be thorough. What happened? When did it start? What page or feature does it affect? \n\nThe more information you share, the quicker we can find a solution! \n\nDrag and drop your attachments here:"
     - type: markdown
       attributes:
@@ -106,7 +106,7 @@ body:
           required: true
       attributes:
           label: "Steps to reproduce"
-          description: "List all steps to reproduce the issue. Be specific! We need to follow the exact steps you took to reproduce the issue, ideally on a clean WordPress installation."
+          description: "List all steps to reproduce the issue. <br>Be specific! <br><br>We need to follow the exact steps you took to reproduce the issue, ideally on a clean WordPress installation."
           placeholder: "Example: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the {widget_name} element... \n4. ..."
     - type: markdown
       attributes:
@@ -118,7 +118,7 @@ body:
           required: true
       attributes:
           label: "Expected behavior"
-          description: "Explain what you expected to happen. Help us understand what you believe the correct or intended behavior should be. This helps us identify the root of the issue faster."
+          description: "Explain what you expected to happen. <br>Help us understand what you believe the correct or intended behavior should be. <br><br>This helps us identify the root of the issue faster."
           placeholder: "Examples: \nAccording to the Documentation in the Help Center I expected... \nWhen I apply a style to {widget_name} I expect it to... \nWhen I visit a page in the fontend, I expect..."
     - type: markdown
       attributes:
@@ -130,7 +130,7 @@ body:
           required: true
       attributes:
           label: "Elementor System Info"
-          description: "<strong>⚠️ This field is required and is not optional.</strong> <br>Redact or remove sensitive information (like admin email, or root paths) if necessary. <br>Keep other details, as these are vital for understanding your problem and recreating it correctly. <br />To learn how to copy and paste the full report visit https://elemn.to/help-system-info."
+          description: "<strong>⚠️ This field is required and is not optional.</strong> <br><br>Redact or remove sensitive information (like admin email, or root paths) if necessary. <br>Keep other details, as these are vital for understanding your problem and recreating it correctly. <br><br>To learn how to copy and paste the full report visit https://elemn.to/help-system-info."
           placeholder: "== Server Environment == \n== WordPress Environment == \n== Theme == \n== User == \n== Active Plugins == \n== Elements Usage == \n== Settings == \n== Features == \n== Integrations == \n== Elementor Experiments == \n== Log == \n== Elementor - Compatibility Tag == \n== Elementor Pro - Compatibility Tag =="
           render: txt
     - type: markdown
