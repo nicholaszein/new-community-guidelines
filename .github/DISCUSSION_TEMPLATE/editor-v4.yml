@@ -43,11 +43,11 @@ body:
 
               - ☝️ **Stick to one topic per discussion thread.** <br>This makes it easier to track feedback and follow up on specific subjects.
     - type: textarea
-      id: discussion
+      id: description
       validations:
           required: true
       attributes:
-          label: " "
+          label: "Description"
           description: "Please share your thoughts, feedback, or questions below."
           placeholder: "Start a discussion..."
     - type: markdown
