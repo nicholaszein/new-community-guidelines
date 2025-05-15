@@ -130,7 +130,7 @@ body:
           required: true
       attributes:
           label: "Elementor System Info"
-          description: "<strong>This field is required</strong> and is not optional. Redact or remove sensitive information (like admin email, or root paths) if necessary. Keep other details, as these are vital for understanding your problem and recreating it correctly. To learn how to copy and paste the full report visit https://elemn.to/help-system-info."
+          description: "<strong>This field is required and is not optional.</strong> <br />Redact or remove sensitive information (like admin email, or root paths) if necessary. Keep other details, as these are vital for understanding your problem and recreating it correctly. <br />To learn how to copy and paste the full report visit https://elemn.to/help-system-info."
           placeholder: "== Server Environment == \n== WordPress Environment == \n== Theme == \n== User == \n== Active Plugins == \n== Elements Usage == \n== Settings == \n== Features == \n== Integrations == \n== Elementor Experiments == \n== Log == \n== Elementor - Compatibility Tag == \n== Elementor Pro - Compatibility Tag =="
           render: txt
     - type: markdown
