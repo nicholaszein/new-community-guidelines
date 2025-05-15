@@ -92,7 +92,7 @@ body:
           required: true
       attributes:
           label: "Description"
-          description: "Describe the issue in detail and include as much context as possible. Feel free to attach screenshots, screen recordings — just drag and drop them into the field below."
+          description: "Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots or screen recordings — just drag and drop them into the field below."
           placeholder: "Please be thorough. The more information you share, the quicker we can find a solution! \n\nDrag and drop your attachments here:"
     - type: markdown
       attributes:
