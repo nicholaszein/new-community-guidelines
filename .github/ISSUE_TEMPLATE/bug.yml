@@ -105,7 +105,7 @@ body:
       attributes:
           label: "Steps to reproduce"
           description: "List all steps to reproduce the issue. Be specific! We need to follow the exact steps you took to reproduce the issue, ideally on a clean WordPress installation."
-          placeholder: "Example: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the widget... \n4. ..."
+          placeholder: "Example: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the {widget_name} element... \n4. ..."
     - type: markdown
       attributes:
           value: |
