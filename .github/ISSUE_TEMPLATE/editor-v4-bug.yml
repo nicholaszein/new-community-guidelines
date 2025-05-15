@@ -12,6 +12,8 @@ body:
               >
               > This is just a preview, and this note will not be part of the final form.
 
+              ----
+
               # 🐛 Report a Confirmed Bug in Elementor Editor V4
               <br>
 
@@ -25,19 +27,20 @@ body:
               ## 🧭 Guidelines
 
               Before getting started, please take a moment to review our **[Contribution Guidelines](#)** and **[Code of Conduct](#)**. These help us keep this space respectful, organized, and inclusive for everyone.
+              <br>
 
               > [!IMPORTANT]
               > ### 🐛 This form is for reporting <ins>confirmed bugs in Editor V4</ins> experimental features only.
-              > Please only use this form if you've already investigated and confirmed that the issue is caused specifically by Editor V4 components.
-              > If your issue is unrelated to Editor V4 features, or if you're here for another reason please **[use our general 🐞 Bug Report form instead](#)**.
+              > Please only use this form if you've already investigated and confirmed that the issue is caused specifically by Editor V4 components. If your issue is unrelated to Editor V4 features, or if you're here for another reason please **[use our general 🐞 Bug Report form instead](#)**.
               >
-              > Keep in mind the **Editor V4** is a work in progress and should not be used on production sites. It may not include all features from Elementor V3 and is subject to changes or instability during development.
+              > Keep in mind the **Editor V4 is a work in progress** and should not be used on production sites. It may not include all features from Elementor V3 and is subject to changes or instability during development.
               >
               > 🧪 For discussing and sharing feedback about the Editor V4, please go to the dedicated Discussion Category instead: **[Discuss the Editor V4](#)**
               >
               > ❔ For frequent questions, check the **[Editor V4 FAQ](#).**
               >
               > ⚠️ _**Reports that are unrelated to Editor V4 or missing required information may be closed without further review.**_
+              <br>
 
               ### 📋 Requirements
 

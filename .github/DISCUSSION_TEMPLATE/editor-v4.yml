@@ -10,6 +10,8 @@ body:
               >
               > This is just a preview, and this note will not be part of the final form.
 
+              ----
+
               # 🧪 Editor V4 Discussion Form
               <br>
 
@@ -20,6 +22,7 @@ body:
               This space is for sharing your thoughts, insights, and suggestions about Editor V4's experimental features. Your feedback is incredibly valuable and helps guide the direction of the product during its development.
 
               Want to learn more about Editor V4? **[Visit our Editor V4 landing page](https://elemn.to/editor-v4)**, it will be updated regularly!
+              <br>
 
               ## 🧭 Guidelines
 
@@ -55,7 +58,6 @@ body:
           value: |
               <br>
 
-              ----
               ## 🔗 Quick Links
 
               Need something else? These links will help you get support, learn, or contribute in the right place:
