@@ -12,6 +12,8 @@ body:
               >
               > This is just a preview, and this note will not be part of the final form.
 
+              ----
+
               # 🐞 Report a Confirmed Bug in Elementor
               <br>
 
@@ -27,8 +29,7 @@ body:
 
               > [!IMPORTANT]
               > ### 🐞 This form is specifically for <ins>reporting confirmed Elementor bugs</ins>.
-              > We welcome your input, but please **only use this form if you've already investigated and validated that the issue is caused by Elementor itself**.
-              > If you're here for another reason, please use one of the 🔗 **Quick Links** at the end of this form.
+              > We welcome your input, but please **only use this form if you've already investigated and validated that the issue is caused by Elementor itself**. If you're here for another reason, please use one of the 🔗 **Quick Links** at the end of this form.
               > 
               > Take a look at the 🎯 **Scope** section below to understand which types of reports are not handled here.
               >
