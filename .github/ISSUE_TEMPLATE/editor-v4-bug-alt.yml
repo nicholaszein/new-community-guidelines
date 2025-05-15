@@ -36,9 +36,8 @@ body:
               <details>
               <summary>
               <h3>📋 Requirements</h3>
-              
               For a quick review and efficient resolution, please ensure your report meets the following requirements.
-              [Click here to expand]
+              **[Click here to expand]**
               </summary>
 
               - *️⃣ **All fields in this form are required** — no exceptions. <br>Incomplete issues will be closed without further action.
@@ -58,9 +57,8 @@ body:
               <details>
               <summary>
               <h3>🎯 Scope</h3>
-              
               To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These types of issues will be **closed without further action**.
-              [Click here to expand]
+              **[Click here to expand]**
               </summary>
 
               - 🐞 **Issues unrelated to bugs in the Editor V4.** <br>If you're here to report issues with existing features of Elementor V3, please **[use our general 🐞 Bug Report form instead](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=bug.yml)**.
