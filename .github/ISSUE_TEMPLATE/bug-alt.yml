@@ -32,7 +32,7 @@ body:
 
               <details>
               <summary>
-              ### 📋 Requirements
+              **📋 Requirements**
               <br>
 
               For a quick review and efficient resolution, please ensure your report meets the following requirements:
@@ -54,11 +54,10 @@ body:
 
               - ☝️ **Only one issue per report.** <br>Please don't bundle multiple bugs in a single submission. This helps us track, reproduce, and fix each issue accurately.
               </details>
-              <br>
 
               <details>
               <summary>
-              ### 🎯 Scope
+              **🎯 Scope**
               <br>
 
               To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These types of issues will be **closed without further action**.
