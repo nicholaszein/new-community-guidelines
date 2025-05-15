@@ -31,8 +31,8 @@ body:
               > ### 🧪 Elementor Editor V4
               > If you are testing the new **[Editor V4](https://elemn.to/editor-v4)** experimental features and wish to report bugs or share feedback, please use one of the links below:
               > 
-              > 🐛 **[Report bugs specific to Editor V4](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=editor-v4-bug.yml)**  
-              > 🗣️ **[Discuss and share feedback about the Editor V4](https://github.com/nicholaszein/new-community-guidelines/discussions)**
+              > **[🐛 Report bugs specific to Editor V4](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=editor-v4-bug.yml)**  
+              > **[🗣️ Discuss and share feedback about the Editor V4](https://github.com/nicholaszein/new-community-guidelines/discussions)**
               <br>
 
               ### 📋 Requirements
@@ -93,7 +93,7 @@ body:
       attributes:
           label: "Description"
           description: "Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots, screen recordings — just drag and drop them into the field below."
-          placeholder: "Examples: \nWhen I try to edit a Product Template with Elementor Pro... \nThe {feature} is not working as indicated in the Documentation on the Help Center... \nThe styles of the {widget} are not applying correctly..."
+          placeholder: "Examples: \n1. When I try to edit a Product Template with Elementor Pro... \n2. The {feature_name} is not working as indicated in the Documentation on the Help Center... \n3. The styles of the {widget_name} are not applying correctly... \n4. ..."
     - type: markdown
       attributes:
           value: |
@@ -105,7 +105,7 @@ body:
       attributes:
           label: "Steps to reproduce"
           description: "List all steps to reproduce the issue. Be specific! We need to follow the exact steps you took to reproduce the issue, ideally on a clean WordPress installation."
-          placeholder: "Examples: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the widget... \n4. Save the post and click on preview..."
+          placeholder: "Examples: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the widget... \n4. ..."
     - type: markdown
       attributes:
           value: |
@@ -117,7 +117,7 @@ body:
       attributes:
           label: "Expected behavior"
           description: "Explain what you expected to happen. Help us understand what you believe the correct or intended behavior should be. This helps us identify the root of the issue faster."
-          placeholder: "Examples: \n1. When I apply a style to {widget} I expect it to... \n2. According to the Documentation in the Help Center... \n3. ..."
+          placeholder: "Examples: \n1. When I apply a style to {widget_name} I expect it to... \n2. When I visit a page in the fontend, I expect... \n3. According to the Documentation in the Help Center... \n4. ..."
     - type: markdown
       attributes:
           value: |
