@@ -28,9 +28,9 @@ body:
 
               <details>
               <summary>
-              <h3>📋 Requirements</h3>
+              <h3>📋 Requirements</h3> <strong>(click to reveal)</strong>
+              
               For a quick review and efficient resolution, please ensure your report meets the following requirements.
-              **[Click here to expand]**
               </summary>
 
               - *️⃣ **All fields in this form are required** — no exceptions. <br>Incomplete issues will be closed without further action.
