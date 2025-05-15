@@ -93,7 +93,7 @@ body:
       attributes:
           label: "Description"
           description: "Describe the issue in detail and include as much context as possible. Feel free to attach screenshots or screen recordings — just drag and drop them into the field below."
-          placeholder: "Please be thorough. What happened? When did it start? What page or feature does it affect? \nThe more information you share, the quicker we can find a solution! \n\n\nDrag and drop your attachments here or use the button below 👇"
+          placeholder: "Please be thorough. What happened? When did it start? What page or feature does it affect? \n\nThe more information you share, the quicker we can find a solution! \nDrag and drop your attachments here, \nor use the button below 👇"
     - type: markdown
       attributes:
           value: |
