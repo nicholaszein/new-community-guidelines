@@ -49,6 +49,7 @@ body:
       validations:
           required: true
       attributes:
+          label: "Description"
           description: "Please share your thoughts, feedback, or questions below."
           placeholder: "Start a discussion..."
     - type: markdown
