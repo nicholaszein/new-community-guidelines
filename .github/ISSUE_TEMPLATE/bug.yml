@@ -5,15 +5,6 @@ body:
     - type: markdown
       attributes:
           value: |
-              > [!NOTE]
-              > **About this form:**
-              >
-              > Some of the links in this example form are not clickable or not working on purpose. The final form will have all the links pointing to the correct destinations.
-              >
-              > This is just a preview, and this note will not be part of the final form.
-
-              ----
-
               # 🐞 Report a Confirmed Bug in Elementor
               <br>
 
@@ -24,12 +15,12 @@ body:
 
               ## 🧭 Guidelines
 
-              Before getting started, please take a moment to review our **[Contribution Guidelines](#)** and **[Code of Conduct](#)**. These help us keep this space respectful, organized, and inclusive for everyone.
+              Before getting started, please take a moment to review our **[Contribution Guidelines](https://github.com/nicholaszein/new-community-guidelines/blob/ba3181a0cc87ef6a3067a074f3ee7d5fc5fd58d3/.github/CONTRIBUTING.md)** and **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/ba3181a0cc87ef6a3067a074f3ee7d5fc5fd58d3/.github/CODE_OF_CONDUCT.md)**. These help us keep this space respectful, organized, and inclusive for everyone.
               <br>
 
               > [!IMPORTANT]
               > ### 🐞 This form is specifically for <ins>reporting confirmed Elementor bugs</ins>.
-              > We welcome your input, but please **only use this form if you've already investigated and validated that the issue is caused by Elementor itself**. If you're here for another reason, please use one of the 🔗 **Quick Links** at the end of this form.
+              > **We welcome your input, but please only use this form if you've already investigated and validated that the issue is caused by Elementor itself.**
               > 
               > Take a look at the 🎯 **Scope** section below to understand which types of reports are not handled here.
               >
@@ -40,8 +31,8 @@ body:
               > ### 🧪 Elementor Editor V4
               > If you are testing the new **[Editor V4](https://elemn.to/editor-v4)** experimental features and wish to report bugs or share feedback, please use one of the forms below:
               > 
-              > 🐛 **[Report bugs specific to Editor V4](#)**  
-              > 🗣️ **[Discuss and share feedback about the Editor V4](#)**
+              > 🐛 **[Report bugs specific to Editor V4](#https://github.com/nicholaszein/new-community-guidelines/issues/new?template=editor-v4-bug.yml)**  
+              > 🗣️ **[Discuss and share feedback about the Editor V4](https://github.com/nicholaszein/new-community-guidelines/discussions)**
               <br>
 
               ### 📋 Requirements
@@ -50,7 +41,7 @@ body:
 
               - *️⃣ **All fields in this form are required** — no exceptions. <br>Incomplete issues will be closed without further action.
 
-              - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[filters at the top of the Issues list](#)** to narrow your search.
+              - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[filters at the top of the Issues list](https://github.com/nicholaszein/new-community-guidelines/issues)** to narrow your search.
 
               - 🆕 **Ensure you have the latest stable versions installed.** <br>Including Elementor, Elementor Pro, WordPress core, your active theme, and all installed plugins. <br>👉 Stay updated: **[Elementor Changelogs](https://elemn.to/changelog)**
 
@@ -73,13 +64,13 @@ body:
 
               - 🧩 **Conflicts with 3rd-party plugins, themes, or services.** <br>We're only able to address issues related to Elementor and Elementor Pro directly. If the problem occurs when using a plugin, theme, or integration that is not officially supported by Elementor, please reach out to the 3rd-party provider for assistance.
 
-              - 🚀 **Feature requests or suggestions.** <br>We love your ideas! But this form is only for confirmed bugs. Please use the dedicated Feature Request form instead. <br>See: **[Request a Feature](#)**
+              - 🚀 **Feature requests or suggestions.** <br>We love your ideas! But this form is only for confirmed bugs. Please use the dedicated Feature Request form instead. <br>See: **[Request a Feature](https://github.com/nicholaszein/new-community-guidelines/discussions/new?category=feature-request)**
 
               - 📚 **Questions about custom code or extending Elementor.** <br>We cannot provide assistance with writing or debugging custom code. If you're building with the Elementor API, we recommend using our **[Developers Documentation](https://elemn.to/dev-docs)**.
 
               - 🛡️ **Security and vulnerability disclosures.** <br>We take security seriously. Please use our managed [Bug Bounty Programs](https://elemn.to/bug-bounty) to responsibly report security issues.
 
-              - ☹️ **Complaints or offensive content.** <br>This is not the place to submit complaints about Elementor's products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](#)**.
+              - ☹️ **Complaints or offensive content.** <br>This is not the place to submit complaints about Elementor's products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/ba3181a0cc87ef6a3067a074f3ee7d5fc5fd58d3/.github/CODE_OF_CONDUCT.md)**.
 
               - ❌ **Incomplete, invalid, or out-of-scope reports.** <br>Issues without clear steps to reproduce, missing required fields, or unrelated to Elementor or Elementor Pro will be closed without further action.
               <br>
@@ -94,7 +85,7 @@ body:
 
               - 👣 **List all steps to reproduce the issue.** <br>Be specific! We need to follow the exact steps you took to reproduce the issue — ideally on a clean WordPress installation. <br>Reports without clear reproduction steps may be closed, as we cannot fix what we cannot replicate.
 
-              - 🧠 **Explain what you expected to happen.** <br>Help us understand what you believe the correct or intended behavior should be. If you were expecting a feature that does not exist, it might not be a bug — in that case, please submit a Feature Request instead. You can find the link in the 🔗 **Quick Links** section.
+              - 🧠 **Explain what you expected to happen.** <br>Help us understand what you believe the correct or intended behavior should be. 
     - type: textarea
       id: description
       validations:
@@ -103,6 +94,10 @@ body:
           label: "Description"
           description: "Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots, screen recordings — just drag and drop them into the field below."
           placeholder: "Examples: \nWhen I try to edit a Product Template with Elementor Pro... \nThe {feature} is not working as indicated in the Documentation on the Help Center... \nThe styles of the {widget} are not applying correctly..."
+    - type: markdown
+      attributes:
+          value: |
+              <br>
     - type: textarea
       id: steps_to_reproduce
       validations:
@@ -111,6 +106,10 @@ body:
           label: "Steps to reproduce"
           description: "List all steps to reproduce the issue. Be specific! We need to follow the exact steps you took to reproduce the issue, ideally on a clean WordPress installation."
           placeholder: "Examples: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the widget... \n4. Save the post and click on preview..."
+    - type: markdown
+      attributes:
+          value: |
+              <br>
     - type: textarea
       id: expected_behavior
       validations:
@@ -122,58 +121,20 @@ body:
     - type: markdown
       attributes:
           value: |
-              ### 💾 Elementor System Info
-              ⚠️ **<ins>This field is REQUIRED and it is NOT OPTIONAL</ins>**
-              - Please copy and paste the **<ins>full Elementor System Info</ins>** report from your WordPress **`Dashboard`** → **`Elementor`** → **`System Info`** page (available at the bottom of the page). <br>**We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
+              <br>
     - type: textarea
       id: system_info
       validations:
           required: true
       attributes:
           label: "Elementor System Info"
-          description: "Redact or remove sensitive information (like admin email, or root paths) if necessary. Keep other details, as these are vital for understanding your problem and recreating it correctly."
+          description: "This field is required and is not optional. Redact or remove sensitive information (like admin email, or root paths) if necessary. Keep other details, as these are vital for understanding your problem and recreating it correctly."
           placeholder: "== Server Environment == \n== WordPress Environment == \n== Theme == \n== User == \n== Active Plugins == \n== Elements Usage == \n== Settings == \n== Features == \n== Integrations == \n== Elementor Experiments == \n== Log == \n== Elementor - Compatibility Tag == \n== Elementor Pro - Compatibility Tag =="
           render: txt
     - type: markdown
       attributes:
           value: |
               <br>
-              
-              ## 🔗 Quick Links
-
-              Need something else? These links will help you get support, learn, or contribute in the right place:
-
-              - 🐛 **Editor V4 Bug Reports** — Report issues with **Editor V4**. [https://elemn.to/editor-v4-bugs](#)
-
-              - 🧪 **Editor V4 Discussion** — Share your feedback! [https://elemn.to/editor-v4-discussion](#)
-
-              - ❔ **Editor V4 FAQ** — Read the most frequent questions about **Editor V4**. [https://elemn.to/editor-v4-faq](#)
-
-              - 🚀 **Feature Requests** — Suggest new ideas or improvements. https://elemn.to/gh-feature-requests
-
-              - 🚩 **Elementor Roadmap** — Check what's coming next. https://elemn.to/roadmap
-
-              - 🛟 **Get Personal Support** — Need help or guidance? https://elemn.to/support-ticket
-
-              - 🔧 **Fix Common Issues** — Troubleshoot the most frequent problems. https://elemn.to/help-troubleshooting
-
-              - 📑 **Help Center** — Documentation, FAQs, and useful articles. https://elemn.to/help
-
-              - 🎓 **Elementor Academy** — Learn how to use Elementor like a pro. https://elemn.to/academy
-
-              - 💬 **Discord Community** — Chat with other Web Creators. https://elemn.to/discord
-
-              - 🌍 **Facebook Global Community** — Help and get help from other Elementor users. https://elemn.to/community-on-fb
-
-              - 🌐 **Developers Community** — Share code tips and ask other devs about extending with Elementor. https://elemn.to/dev-community
-
-              - 📚 **Developers Center** — For extending Elementor via API or custom code. https://elemn.to/dev-center
-
-              - 📖 **Contribution Guidelines** — Learn how to contribute to this repository. https://elemn.to/gh-contributing
-
-              - 🤝 **Code of Conduct** — Help us foster a respectful and inclusive environment. https://elemn.to/gh-code-of-conduct
-
-              - 🛡️ **Security Policy** — Report vulnerabilities safely. https://elemn.to/gh-security
     - type: checkboxes
       id: final_agreement
       attributes:
