@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
     - name: 🧪 Editor V4 Discussions
-      url: https://github.com/nicholaszein/new-community-guidelines/discussions/new?category=editor-v4
+      url: https://elemn.to/editor-v4-discussion
       about: Share your feedback, ideas, and thoughts about Editor V4's experimental features.
     - name: ❔ Editor V4 FAQ
       url: https://elemn.to/editor-v4-faq
@@ -11,7 +11,7 @@ contact_links:
       about: Have an idea to improve Elementor? Submit your feature request here.
     - name: 🚩 Roadmap
       url: https://elemn.to/roadmap
-      about: Explore the Elementor Roadmap to see what's coming next and track progress 
+      about: Explore the Elementor Roadmap to see what's coming next and track progress.
     - name: 🛟 Get Personal Support
       url: https://elemn.to/support-ticket
       about: Need help, guidance, or personal support? Follow these steps to get assistance from Elementor Support.
