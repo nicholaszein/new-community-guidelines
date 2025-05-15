@@ -3,18 +3,23 @@ body:
     - type: markdown
       attributes:
           value: |
+              > [!NOTE]
+              > **About this form:**
+              >
+              > Some of the links in this example form are not clickable or not working on purpose. The final form will have all the links pointing to the correct destinations.
+              >
+              > This is just a preview, and this note will not be part of the final form.
+
               # 🧪 Editor V4 Discussion Form
               <br>
 
               👋 **Welcome, and thank you for helping shape the future of Elementor!**
 
-              We’re thrilled to have you here testing **Editor V4** — a major evolution of the Elementor Editor, rebuilt to improve performance, responsiveness, and your overall workflow.
+              We're thrilled to have you here testing **Editor V4** — a major evolution of the Elementor Editor, rebuilt to improve performance, responsiveness, and your overall workflow.
 
               This space is for sharing your thoughts, insights, and suggestions about Editor V4's experimental features. Your feedback is incredibly valuable and helps guide the direction of the product during its development.
 
               Want to learn more about Editor V4? **[Visit our Editor V4 landing page](https://elemn.to/editor-v4)**, it will be updated regularly!
-              <br>
-              <br>
 
               ## 🧭 Guidelines
 
@@ -63,7 +68,7 @@ body:
 
               - 🚀 **Feature Requests** — Suggest new ideas or improvements. https://elemn.to/gh-feature-requests
 
-              - 🚩 **Elementor Roadmap** — Check what’s coming next. https://elemn.to/roadmap
+              - 🚩 **Elementor Roadmap** — Check what's coming next. https://elemn.to/roadmap
 
               - 🛟 **Get Personal Support** — Need help or guidance? https://elemn.to/support-ticket
 

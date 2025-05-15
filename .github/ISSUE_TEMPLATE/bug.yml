@@ -1,10 +1,17 @@
 name: "🐞 Report a Confirmed Bug in Elementor"
-description: "Found a reproducible bug in Elementor’s source code after troubleshooting? Submit it here to help us improve."
+description: "Found a reproducible bug in Elementor's source code after troubleshooting? Submit it here to help us improve."
 labels: ["status/awaiting_triage"]
 body:
     - type: markdown
       attributes:
           value: |
+              > [!NOTE]
+              > **About this form:**
+              >
+              > Some of the links in this example form are not clickable or not working on purpose. The final form will have all the links pointing to the correct destinations.
+              >
+              > This is just a preview, and this note will not be part of the final form.
+
               # 🐞 Report a Confirmed Bug in Elementor
               <br>
 
@@ -20,7 +27,7 @@ body:
               > [!IMPORTANT]
               > ### 🐞 This form is specifically for <ins>reporting confirmed Elementor bugs</ins>.
               > We welcome your input, but please **only use this form if you've already investigated and validated that the issue is caused by Elementor itself**.
-              > If you’re here for another reason, please use one of the 🔗 **Quick Links** at the end of this form.
+              > If you're here for another reason, please use one of the 🔗 **Quick Links** at the end of this form.
               > 
               > Take a look at the 🎯 **Scope** section below to understand which types of reports are not handled here.
               >
@@ -33,7 +40,6 @@ body:
               > 
               > 🐛 **[Report bugs specific to Editor V4](#)**  
               > 🗣️ **[Discuss and share feedback about the Editor V4](#)**
-              <br>
 
               ### 📋 Requirements
 
@@ -51,9 +57,9 @@ body:
 
               - 💾 **Copy and paste your complete Elementor System Info.** <br>This is not optional and helps us better reproduce and understand your issue. Reports without the full Elementor System Info will be closed. <br>👉 Learn how to copy it here: **[Share system information with Elementor](https://elemn.to/help-system-info)**
 
-              - 🪪 **If you’re a 3rd-party developer**, please introduce yourself. <br>Include your name, company, product name, and a way for us to contact you (such as an email address) if needed. <br>This helps us collaborate more effectively.
+              - 🪪 **If you're a 3rd-party developer**, please introduce yourself. <br>Include your name, company, product name, and a way for us to contact you (such as an email address) if needed. <br>This helps us collaborate more effectively.
 
-              - ☝️ **Only one issue per report.** <br>Please don’t bundle multiple bugs in a single submission. This helps us track, reproduce, and fix each issue accurately.
+              - ☝️ **Only one issue per report.** <br>Please don't bundle multiple bugs in a single submission. This helps us track, reproduce, and fix each issue accurately.
               <br>
 
               ### 🎯 Scope
@@ -62,20 +68,18 @@ body:
 
               - 🛟 **Requests for personal support** <br>This includes help with setup, troubleshooting, or usage guidance. For that, please contact our **[official support channels](https://elemn.to/support-ticket)**.
 
-              - 🧩 **Conflicts with 3rd-party plugins, themes, or services.** <br>We’re only able to address issues related to Elementor and Elementor Pro directly. If the problem occurs when using a plugin, theme, or integration that is not officially supported by Elementor, please reach out to the 3rd-party provider for assistance.
+              - 🧩 **Conflicts with 3rd-party plugins, themes, or services.** <br>We're only able to address issues related to Elementor and Elementor Pro directly. If the problem occurs when using a plugin, theme, or integration that is not officially supported by Elementor, please reach out to the 3rd-party provider for assistance.
 
               - 🚀 **Feature requests or suggestions.** <br>We love your ideas! But this form is only for confirmed bugs. Please use the dedicated Feature Request form instead. <br>See: **[Request a Feature](#)**
 
-              - 📚 **Questions about custom code or extending Elementor.** <br>We cannot provide assistance with writing or debugging custom code. If you’re building with the Elementor API, we recommend using our **[Developers Documentation](https://elemn.to/dev-docs)**.
+              - 📚 **Questions about custom code or extending Elementor.** <br>We cannot provide assistance with writing or debugging custom code. If you're building with the Elementor API, we recommend using our **[Developers Documentation](https://elemn.to/dev-docs)**.
 
               - 🛡️ **Security and vulnerability disclosures.** <br>We take security seriously. Please use our managed [Bug Bounty Programs](https://elemn.to/bug-bounty) to responsibly report security issues.
 
-              - ☹️ **Complaints or offensive content.** <br>This is not the place to submit complaints about Elementor’s products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](#)**.
+              - ☹️ **Complaints or offensive content.** <br>This is not the place to submit complaints about Elementor's products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](#)**.
 
               - ❌ **Incomplete, invalid, or out-of-scope reports.** <br>Issues without clear steps to reproduce, missing required fields, or unrelated to Elementor or Elementor Pro will be closed without further action.
               <br>
-
-              ----
 
               ## 📝 Instructions
 
@@ -131,8 +135,7 @@ body:
       attributes:
           value: |
               <br>
-
-              ----
+              
               ## 🔗 Quick Links
 
               Need something else? These links will help you get support, learn, or contribute in the right place:
@@ -145,7 +148,7 @@ body:
 
               - 🚀 **Feature Requests** — Suggest new ideas or improvements. https://elemn.to/gh-feature-requests
 
-              - 🚩 **Elementor Roadmap** — Check what’s coming next. https://elemn.to/roadmap
+              - 🚩 **Elementor Roadmap** — Check what's coming next. https://elemn.to/roadmap
 
               - 🛟 **Get Personal Support** — Need help or guidance? https://elemn.to/support-ticket
 
@@ -178,10 +181,3 @@ body:
                 required: true
               - label: "I agree that my issue may be closed without further action if it doesn't meet all the requirements outlined in the Editor V4 Bug Report form."
                 required: true
-    - type: markdown
-      attributes:
-          value: |
-              <br>
-
-              ---
-              ### 🙏 Thank you for contributing and helping make Elementor better.
