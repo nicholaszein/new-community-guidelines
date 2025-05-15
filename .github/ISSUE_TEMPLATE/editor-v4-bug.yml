@@ -91,7 +91,7 @@ body:
       attributes:
           label: "Description"
           description: "Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots or screen recordings — just drag and drop them into the field below."
-          placeholder: "Examples: \nWhen I try to edit a Global Class in the Class Manager... \nThe Style Indicator in the {element_name} for the class... \nWhen I apply a Variable..."
+          placeholder: "Examples: \nWhen I try to edit a Global Class in the Class Manager... \nThe Style Indicator for the Responsive {css_property_name}... \nWhen I apply a Variable..."
     - type: markdown
       attributes:
           value: |
