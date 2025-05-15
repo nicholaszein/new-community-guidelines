@@ -5,13 +5,6 @@ body:
     - type: markdown
       attributes:
           value: |
-              > [!NOTE]
-              > **About this form:**
-              >
-              > Some of the links in this example form are not clickable or not working on purpose. The final form will have all the links pointing to the correct destinations.
-              >
-              > This is just a preview, and this note will not be part of the final form.
-
               # 🐛 Report a Confirmed Bug in Elementor Editor V4
               <br>
 
