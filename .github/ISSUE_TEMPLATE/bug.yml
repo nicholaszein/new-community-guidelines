@@ -93,7 +93,7 @@ body:
       attributes:
           label: "Description"
           description: "Please describe the issue in detail and include as much context as possible. Feel free to attach screenshots, screen recordings — just drag and drop them into the field below."
-          placeholder: "Examples: \nWhen I try to edit a Product Template with Elementor Pro... \nThe {feature_name} is not working as indicated in the Documentation on the Help Center... \nThe styles of the {widget_name} are not applying correctly... \n..."
+          placeholder: "Examples: \nWhen I try to edit a Product Template with Elementor Pro... \nThe {feature_name} is not working as indicated in the Documentation on the Help Center... \nThe styles of the {widget_name} are not applying correctly..."
     - type: markdown
       attributes:
           value: |
@@ -117,7 +117,7 @@ body:
       attributes:
           label: "Expected behavior"
           description: "Explain what you expected to happen. Help us understand what you believe the correct or intended behavior should be. This helps us identify the root of the issue faster."
-          placeholder: "Examples: \nWhen I apply a style to {widget_name} I expect it to... \nWhen I visit a page in the fontend, I expect... \nAccording to the Documentation in the Help Center... \n..."
+          placeholder: "Examples: \nWhen I apply a style to {widget_name} I expect it to... \nWhen I visit a page in the fontend, I expect... \nAccording to the Documentation in the Help Center..."
     - type: markdown
       attributes:
           value: |
