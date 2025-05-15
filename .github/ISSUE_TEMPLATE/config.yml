@@ -36,9 +36,9 @@ contact_links:
     - name: 📚 Developers Center
       url: https://elemn.to/dev-center
       about: Get technical documentation and resources to extend Elementor with custom code and integrations.
-    - name: 📖 Contribution Guidelines
-      url: https://elemn.to/gh-contributing
-      about: Before submitting a bug report, feature request, or pull request, please read our Contribution Guidelines.
-    - name: 🤝 Code of Conduct
-      url: https://elemn.to/gh-code-of-conduct
-      about: Help us maintain a safe, open, and welcoming environment by following our Code of Conduct.
+    # - name: 📖 Contribution Guidelines
+    #   url: https://elemn.to/gh-contributing
+    #   about: Before submitting a bug report, feature request, or pull request, please read our Contribution Guidelines.
+    # - name: 🤝 Code of Conduct
+    #   url: https://elemn.to/gh-code-of-conduct
+    #   about: Help us maintain a safe, open, and welcoming environment by following our Code of Conduct.
