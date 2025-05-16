@@ -5,7 +5,7 @@ body:
     - type: markdown
       attributes:
           value: |
-              # 🐛 Report a Confirmed Bug in Elementor Editor V4 [Alt]
+              # 🐛 Report a Confirmed Bug in Editor V4 [Alt]
               <br>
 
               👋 **Welcome, and thank you for helping shape the future of Elementor!**
