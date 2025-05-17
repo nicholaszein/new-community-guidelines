@@ -39,7 +39,7 @@ body:
 
               - 🆕 **Ensure you have the latest stable versions installed.** <br>Including Elementor, Elementor Pro, WordPress core, your active theme, and all installed plugins. <br>👉 Stay updated: **[Elementor Changelogs](https://elemn.to/changelog)**
 
-              - 🗑️ **Clear all relevant cache layers.** <br>Confirm the issue is not being caused by old cached data. <br>Please clear server cache, site-level cache (including plugin-based cache), CDN cache, and your browser cache - in that order.
+              - 🗑️ **Clear all relevant cache layers.** <br>Confirm the issue is not being caused by old cached data. <br>Please clear server cache, site-level cache (including plugin-based cache), CDN cache, and your browser cache - in that order to avoid possible cache conflicts.
 
               - 🕵️ **Test with only Elementor, Elementor Pro, and the Hello Theme active.** <br>Temporarily disable all other plugins and themes. This step helps confirm that the issue is not being caused by a 3rd-party conflict. <br>👉 Reference: **[Troubleshooting the Editor](https://elemn.to/help-troubleshooting)**
 
