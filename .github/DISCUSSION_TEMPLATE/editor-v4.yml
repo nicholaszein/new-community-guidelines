@@ -8,7 +8,7 @@ body:
 
               👋 **Welcome, and thank you for helping shape the future of Elementor!**
 
-              We're thrilled to have you here testing **Editor V4** — a major evolution of the Elementor Editor, rebuilt to improve performance, responsiveness, and your overall workflow.
+              We're thrilled to have you here testing **Editor V4** - a major evolution of the Elementor Editor, rebuilt to improve performance, responsiveness, and your overall workflow.
 
               **This space is for sharing your thoughts, insights, and suggestions about Editor V4's experimental features. Your feedback is incredibly valuable and helps guide the direction of the product during its development.**
 
@@ -17,17 +17,19 @@ body:
 
               ## 🧭 Guidelines
 
-              Before getting started, please review our **[Contribution Guidelines](https://github.com/nicholaszein/new-community-guidelines/blob/ba3181a0cc87ef6a3067a074f3ee7d5fc5fd58d3/.github/CONTRIBUTING.md)** and **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/ba3181a0cc87ef6a3067a074f3ee7d5fc5fd58d3/.github/CODE_OF_CONDUCT.md)**. These documents help us maintain a respectful, inclusive, and organized space for all contributors.
+              Before getting started, please take a moment to review our **[Contribution Guidelines](https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CONTRIBUTING.md)** and **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CODE_OF_CONDUCT.md)**. These help us keep this space organized, respectful, and inclusive for everyone.
               <br>
 
               > [!IMPORTANT]
-              > ### 🧪 This space is dedicated to discussing features in Editor V4.
+              > ### 🧪 This space is dedicated to <ins>discussing the Editor V4</ins> experimental features and progress.
               > 
-              > If you're here to report a bug, please use the **[🐛 Editor V4 Bug Report Form](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=editor-v4-bug.yml)**. 
+              > If you're here to report a bug in the **Editor V4** experimental features, please use the **[🐛 Editor V4 Bug Report form](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=editor-v4-bug.yml)** instead. 
               > 
-              > Keep in mind that the **Editor V4** is still in early development — it may not include all existing features from Elementor V3 and is subject to change or instability.
-              > 
-              > For common questions, check the **[❔ Editor V4 FAQ](#)**.
+              > Keep in mind **the Editor V4 is still a work in progress** - it may not include all existing features from Elementor V3, is subject to change or instability, and should not be used on production websites.
+              >
+              > For frequent questions, check the **[❔ Editor V4 FAQ](elemn.to/editor-v4-faq).**
+              >
+              > ⚠️ _**Discussions that are unrelated to Editor V4 may be closed without further action. Be nice eand keep this space respectful and welcoming.**_
               <br>
 
               ## 💡 Help Us Keep Editor V4 Discussions Organized
