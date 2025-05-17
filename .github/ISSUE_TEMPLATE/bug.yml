@@ -35,11 +35,11 @@ body:
 
               - *️⃣ **All fields in this form are required** - no exceptions. <br>Incomplete issues will be closed without further action.
 
-              - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by **[using the filters at the top of the Issues list](https://github.com/nicholaszein/new-community-guidelines/issues)** to narrow your search.
+              - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the filters at the top of the **[Issues list](https://github.com/nicholaszein/new-community-guidelines/issues)** to narrow your search.
 
               - 🆕 **Ensure you have the latest stable versions installed.** <br>Including Elementor, Elementor Pro, WordPress core, your active theme, and all installed plugins. <br>👉 Stay updated: **[Elementor Changelogs](https://elemn.to/changelog)**
 
-              - 🗑️ **Clear all relevant cache layers.** <br>Confirm the issue is not being caused by stale or cached data. <br>Please clear server cache, site-level cache (including plugin-based cache), CDN cache, and your browser cache — in that order.
+              - 🗑️ **Clear all relevant cache layers.** <br>Confirm the issue is not being caused by old or cached data. <br>Please clear server cache, site-level cache (including plugin-based cache), CDN cache, and your browser cache - in that order.
 
               - 🕵️ **Test with only Elementor, Elementor Pro, and the Hello Theme active.** <br>Temporarily disable all other plugins and themes. This step helps confirm that the issue is not being caused by a 3rd-party conflict. <br>👉 Reference: **[Troubleshooting the Editor](https://elemn.to/help-troubleshooting)**
 
@@ -66,7 +66,7 @@ body:
 
               - 🛡️ **Security and vulnerability disclosures.** <br>We take security seriously. Please use our managed **[Bug Bounty Programs](https://elemn.to/bug-bounty)** to responsibly report security issues.
 
-              - ☹️ **Complaints or offensive content.** <br>While we are open to feedback, this is not theappropriate place to submit complaints about Elementor's products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CODE_OF_CONDUCT.md)**.
+              - ☹️ **Complaints or offensive content.** <br>While we are open to feedback, this is not the appropriate place to submit complaints about Elementor's products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CODE_OF_CONDUCT.md)**.
 
               - ❌ **Incomplete, invalid, or out-of-scope reports.** <br>Issues without clear steps to reproduce, missing required fields, or unrelated to Elementor or Elementor Pro will be closed without further action.
               </details>
