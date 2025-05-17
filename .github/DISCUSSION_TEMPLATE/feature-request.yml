@@ -100,7 +100,7 @@ body:
       attributes:
           label: "Additional Context"
           description: "Optional: Give examples of any alternative solutions or features you've considered, or share any other information you think should be relevant."
-          placeholder: "Examples: \nIt can also be solved by ... \nHere's an example of ... \n• References \n• Links \n• Media files"
+          placeholder: "Examples: \nIt can also be solved by ... \nHere's an example of ... \n\nDrag and drop your attachments here:"
     - type: markdown
       attributes:
           value: |
