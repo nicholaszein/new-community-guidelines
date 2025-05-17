@@ -1,44 +1,23 @@
 blank_issues_enabled: false
 contact_links:
-    # - name: 🧪 Editor V4 Discussions
-    #   url: https://github.com/nicholaszein/new-community-guidelines/discussions/categories/editor-v4
-    #   about: Share your feedback, ideas, and thoughts about Editor V4's experimental features.
-    # - name: ❔ Editor V4 FAQ
-    #   url: https://elemn.to/editor-v4-faq
-    #   about: Frequently asked questions about Editor V4's features, limitations, and known behaviors.
-    # - name: 🚀 Feature Requests
-    #   url: https://github.com/nicholaszein/new-community-guidelines/discussions/categories/feature-request
-    #   about: Have an idea to improve Elementor? Submit your feature request here.
-    # - name: 🚩 Roadmap
-    #   url: https://elemn.to/roadmap
-      # about: Explore the Elementor Roadmap to see what's coming next and track progress.
     - name: 🛟 Get Personal Support
       url: https://elemn.to/support-ticket
       about: Need help, guidance, or personal support? Follow these steps to get assistance from Elementor Support.
-    # - name: 🔧 Fix Common Issues
-    #   url: https://elemn.to/help-troubleshooting
-    #   about: Troubleshoot the most frequent problems.
-    # - name: 📑 Help Center
-    #   url: https://elemn.to/help
-    #   about: Find answers to common issues and learn how to use Elementor more effectively in our Help Center.
-    # - name: 🎓 Elementor Academy
-    #   url: https://elemn.to/academy
-    #   about: Grow your Web Creator skills with in-depth lessons and tutorials from Elementor Academy.on upcoming features.
-    # - name: 💬 Discord Community
-    #   url: https://elemn.to/discord
-    #   about: Chat with other Web Creators.
-    # - name: 🌍 Facebook Global Community
-    #   url: https://elemn.to/community-on-fb
-    #   about: Join our main Facebook group to ask questions, share knowledge, and help other Elementor users.
-    # - name: 🌐 Developers Community
-    #   url: https://elemn.to/dev-community
-    #   about: Connect with other developers to share tips, get advice, and collaborate on extending Elementor.
+    - name: 🚀 Feature Requests
+      url: https://github.com/nicholaszein/new-community-guidelines/discussions/categories/feature-request
+      about: Have an idea to improve Elementor? Submit your feature request here.
+    - name: 🧪 Editor V4 Discussions
+      url: https://github.com/nicholaszein/new-community-guidelines/discussions/categories/editor-v4
+      about: Share your feedback, ideas, and thoughts about Editor V4's experimental features.
+    - name: 🌐 Developers Community
+      url: https://elemn.to/dev-community
+      about: Connect with other developers to share tips, get advice, and collaborate on extending Elementor.
     - name: 📚 Visit the Developers Center
       url: https://elemn.to/dev-center
       about: Get technical documentation and resources to extend Elementor with custom code and integrations.
-    # - name: 📖 Contribution Guidelines
-    #   url: https://elemn.to/gh-contributing
-    #   about: Before submitting a bug report, feature request, or pull request, please read our Contribution Guidelines.
-    # - name: 🤝 Code of Conduct
-    #   url: https://elemn.to/gh-code-of-conduct
-    #   about: Help us maintain a safe, open, and welcoming environment by following our Code of Conduct.
+    - name: 📖 Contribution Guidelines
+      url: https://elemn.to/gh-contributing
+      about: Before submitting a bug report, feature request, or pull request, please read our Contribution Guidelines.
+    - name: 🤝 Code of Conduct
+      url: https://elemn.to/gh-code-of-conduct
+      about: Help us maintain a safe, open, and welcoming environment by following our Code of Conduct.

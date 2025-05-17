@@ -76,12 +76,10 @@ body:
 
               - ❌ **Incomplete, invalid, or out-of-scope reports.** <br>Issues without clear steps to reproduce, missing required fields, or unrelated to Elementor or Elementor Pro will be closed without further action.
               </details>
-              <details>
-              <summary>
-              <h3>📝 Instructions</h3> <em>(click to expand)</em>
+              
+              <h3>📝 Instructions</h3>
               
               To help us understand and resolve your issue, please follow these best practices.
-              </summary>
 
               - ✒️ **Use a clear and descriptive title.** <br>A good title helps everyone quickly understand what the issue is about. Try to summarize the problem in a few words.
 
@@ -90,7 +88,6 @@ body:
               - 👣 **List all steps to reproduce the issue.** <br>Be specific! We need to follow the exact steps you took to reproduce the issue — ideally on a clean WordPress installation. <br>Reports without clear reproduction steps may be closed, as we cannot fix what we cannot replicate.
 
               - 🧠 **Explain what you expected to happen.** <br>Help us understand what you believe the correct or intended behavior should be.
-              </details>
     - type: textarea
       id: description
       validations:
@@ -144,7 +141,7 @@ body:
       id: final_agreement
       attributes:
           label: "Agreement"
-          description: "By filling out this form, you confirm that you have read and followed all the guidelines, requirements, scope, and instructions outlined above, and you agree that your issue may be closed without further action if it doesn't meet them."
+          description: "By filling out this form, you confirm that you have read and followed all the guidelines, requirements, scope, and instructions outlined above, and you agree your issue may be closed without further action if it doesn't meet them."
           options:
               - label: "I confirm I have read and followed all the guidelines and instructions outlined in the Editor V4 Bug Report form."
                 required: true

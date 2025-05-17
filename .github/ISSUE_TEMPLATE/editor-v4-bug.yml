@@ -1,11 +1,11 @@
-name: "🐛 Report a Confirmed Bug in Editor V4"
+name: "🐛 Report a Confirmed Bug in Editor V4 [Alt]"
 description: "Report confirmed bugs in Editor V4's experimental features and help us improve the experience before the final release."
 labels: ["status/awaiting_triage", "product/editor-v4"]
 body:
     - type: markdown
       attributes:
           value: |
-              # 🐛 Report a Confirmed Bug in Editor V4
+              # 🐛 Report a Confirmed Bug in Editor V4 [Alt]
               <br>
 
               👋 **Welcome, and thank you for helping shape the future of Elementor!**
@@ -31,11 +31,13 @@ body:
               > ❔ For frequent questions, check the **[Editor V4 FAQ](elemn.to/editor-v4-faq).**
               >
               > ⚠️ _**Reports that are unrelated to Editor V4 or missing required information may be closed without further review.**_
-              <br>
 
-              ### 📋 Requirements
-
-              For a quick review and efficient resolution, please ensure your report meets the following requirements:
+              <details>
+              <summary>
+              <h3>📋 Requirements</h3> <em>(click to expand)</em>
+              
+              For a quick review and efficient resolution, please ensure your report meets the following requirements.
+              </summary>
 
               - *️⃣ **All fields in this form are required** — no exceptions. <br>Incomplete issues will be closed without further action.
 
@@ -50,11 +52,13 @@ body:
               - 🪪 **If you're a 3rd-party developer**, please introduce yourself. <br>Include your name, company, product name, and a way for us to contact you (such as an email address) if needed. <br>This helps us collaborate more effectively.
 
               - ☝️ **Only one issue per report.** <br>Please don't bundle multiple bugs in a single submission. This helps us track, reproduce, and fix each issue accurately.
-              <br>
-
-              ### 🎯 Scope
-
-              To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These types of issues will be **closed without further action**. 
+              </details>
+              <details>
+              <summary>
+              <h3>🎯 Scope</h3> <em>(click to expand)</em>
+              
+              To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These types of issues will be **closed without further action**.
+              </summary>
 
               - 🐞 **Issues unrelated to bugs in the Editor V4.** <br>If you're here to report issues with existing features of Elementor V3, please **[use our general 🐞 Bug Report form instead](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=bug.yml)**.
 
@@ -71,11 +75,11 @@ body:
               - ☹️ **Complaints or offensive content.** <br>This is not the place to submit complaints about Elementor's products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/ba3181a0cc87ef6a3067a074f3ee7d5fc5fd58d3/.github/CODE_OF_CONDUCT.md)**.
 
               - ❌ **Incomplete, invalid, or out-of-scope reports.** <br>Issues without clear steps to reproduce, missing required fields, or unrelated to Elementor or Elementor Pro will be closed without further action.
-              <br>
-
-              ## 📝 Instructions
-
-              To help us understand and resolve your issue, please follow these best practices:
+              </details>
+              
+              <h3>📝 Instructions</h3>
+              
+              To help us understand and resolve your issue, please follow these best practices.
 
               - ✒️ **Use a clear and descriptive title.** <br>A good title helps everyone quickly understand what the issue is about. Try to summarize the problem in a few words.
 
@@ -83,14 +87,14 @@ body:
 
               - 👣 **List all steps to reproduce the issue.** <br>Be specific! We need to follow the exact steps you took to reproduce the issue — ideally on a clean WordPress installation. <br>Reports without clear reproduction steps may be closed, as we cannot fix what we cannot replicate.
 
-              - 🧠 **Explain what you expected to happen.** <br>Help us understand what you believe the correct or intended behavior should be. 
+              - 🧠 **Explain what you expected to happen.** <br>Help us understand what you believe the correct or intended behavior should be.
     - type: textarea
       id: description
       validations:
           required: true
       attributes:
           label: "Description"
-          description: "Describe the issue in detail and include as much context as possible. Feel free to attach screenshots or screen recordings — just drag and drop them into the field below."
+          description: "Describe the issue in detail and include as much context as possible. <br><br>Feel free to attach screenshots or screen recordings — just drag and drop them into the field below."
           placeholder: "Please be thorough. What happened? When did it start? What page or feature does it affect? \n\nThe more information you share, the quicker we can find a solution! \n\nDrag and drop your attachments here:"
     - type: markdown
       attributes:
@@ -102,7 +106,7 @@ body:
           required: true
       attributes:
           label: "Steps to reproduce"
-          description: "List all steps to reproduce the issue. Be specific! We need to follow the exact steps you took to reproduce the issue, ideally on a clean WordPress installation."
+          description: "List all steps to reproduce the issue. <strong>Be specific!</strong> <br><br>We need to follow the exact steps you took to reproduce the issue, ideally on a clean WordPress installation."
           placeholder: "Example: \n1. In the WordPress Dashboard, go to... \n2. Create a Template... \n3. Drag & Drop the {widget_name} element... \n4. ..."
     - type: markdown
       attributes:
@@ -114,7 +118,7 @@ body:
           required: true
       attributes:
           label: "Expected behavior"
-          description: "Explain what you expected to happen. Help us understand what you believe the correct or intended behavior should be. This helps us identify the root of the issue faster."
+          description: "Explain what you expected to happen. <br><br>Help us understand what you believe the correct or intended behavior should be. <br>This way we can identify the root of the issue quickly and find a solution faster."
           placeholder: "Examples: \nAccording to the Documentation in the Help Center I expected... \nWhen I apply a style to {widget_name} I expect it to... \nWhen I visit a page in the fontend, I expect..."
     - type: markdown
       attributes:
@@ -126,7 +130,7 @@ body:
           required: true
       attributes:
           label: "Elementor System Info"
-          description: "This field is required and is not optional. Redact or remove sensitive information (like admin email, or root paths) if necessary. Keep other details, as these are vital for understanding your problem and recreating it correctly. To learn how to copy and paste the full report visit https://elemn.to/help-system-info."
+          description: "<strong>⚠️ This field is required and is not optional.</strong> <br><br>Redact or remove sensitive information (like admin email, or root paths) if necessary. <br>Keep other details, as these are vital for understanding your problem and recreating it correctly. <br><br>To learn how to copy and paste the full report visit https://elemn.to/help-system-info."
           placeholder: "== Server Environment == \n== WordPress Environment == \n== Theme == \n== User == \n== Active Plugins == \n== Elements Usage == \n== Settings == \n== Features == \n== Integrations == \n== Elementor Experiments == \n== Log == \n== Elementor - Compatibility Tag == \n== Elementor Pro - Compatibility Tag =="
           render: txt
     - type: markdown
@@ -137,7 +141,7 @@ body:
       id: final_agreement
       attributes:
           label: "Agreement"
-          description: "By filling out this form, you confirm that you have read and followed the guidelines and instructions outlined above, and you agree that your issue may be closed without further action if it doesn't meet them."
+          description: "By filling out this form, you confirm that you have read and followed all the guidelines, requirements, scope, and instructions outlined above, and you agree your issue may be closed without further action if it doesn't meet them."
           options:
               - label: "I confirm I have read and followed all the guidelines and instructions outlined in the Editor V4 Bug Report form."
                 required: true

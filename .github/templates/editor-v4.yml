@@ -55,5 +55,5 @@ body:
           label: "Agreement"
           description: "By filling out this form, you confirm that you have read the guidelines outlined above, and you agree your discussion may be closed without warning if it doesn't meet them."
           options:
-              - label: "I confirm I have read and followed the Editor V4 Discussion Form guidelines, and agree this discussion may be closed without warning."
+              - label: "I confirm I have read and followed the guidelines, and agree this discussion may be closed without warning."
                 required: true
