@@ -9,15 +9,15 @@ contact_links:
     - name: 🧪 Editor V4 Discussions
       url: https://github.com/nicholaszein/new-community-guidelines/discussions/categories/editor-v4
       about: Share your feedback, ideas, and thoughts about Editor V4's experimental features.
-    - name: 🌐 Developers Community
-      url: https://elemn.to/dev-community
-      about: Connect with other developers to share tips, get advice, and collaborate on extending Elementor.
     - name: 📚 Visit the Developers Center
       url: https://elemn.to/dev-center
       about: Get technical documentation and resources to extend Elementor with custom code and integrations.
+    - name: 🌐 Developers Community
+      url: https://elemn.to/dev-community
+      about: Connect with other developers to share tips, get advice, and collaborate on extending Elementor.
     - name: 📖 Contribution Guidelines
-      url: https://elemn.to/gh-contributing
+      url: https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CONTRIBUTING.md
       about: Before submitting a bug report, feature request, or pull request, please read our Contribution Guidelines.
     - name: 🤝 Code of Conduct
-      url: https://elemn.to/gh-code-of-conduct
+      url: https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CODE_OF_CONDUCT.md
       about: Help us maintain a safe, open, and welcoming environment by following our Code of Conduct.
