@@ -60,7 +60,7 @@ body:
               To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These issues will be **closed without further action**.
               </summary>
 
-              - 🐞 **Issues unrelated to bugs in the Editor V4.** <br>If you're here to report issues with existing features of Elementor V3, please **[use our general 🐞 Bug Report form instead](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=bug.yml)**.
+              - 🐞 **Issues unrelated to bugs in the Editor V4.** <br>If you're here to report issues with existing features in Elementor V3, please **[use our general 🐞 Bug Report form instead](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=bug.yml)**.
 
               - 🛟 **Requests for personal support** <br>This includes help with setup, troubleshooting, or usage guidance. For that, please contact one of our **[official Support Channels](https://elemn.to/support-ticket)**.
 
@@ -77,7 +77,7 @@ body:
               - ❌ **Incomplete, invalid, or out-of-scope reports.** <br>Issues without clear steps to reproduce, missing required fields, or unrelated to **Editor V4** will be closed without further action.
               </details>
               
-              <h3>📝 Instructions</h3>
+              ## 📝 Instructions
               
               To help us understand and resolve your issue, please follow these best practices:
 
