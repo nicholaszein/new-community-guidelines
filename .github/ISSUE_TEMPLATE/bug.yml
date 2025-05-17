@@ -73,7 +73,7 @@ body:
               - ❌ **Incomplete, invalid, or out-of-scope reports.** <br>Issues without clear steps to reproduce, missing required fields, or unrelated to Elementor or Elementor Pro will be closed without further action.
               </details>
               
-              <h3>📝 Instructions</h3>
+              ## 📝 Instructions
               
               To help us understand and resolve your issue, please follow these best practices:
 
