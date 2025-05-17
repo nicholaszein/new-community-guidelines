@@ -15,7 +15,7 @@ body:
 
               ## 🧭 Guidelines
 
-              Before getting started, please take a moment to review our **[Contribution Guidelines](https://github.com/nicholaszein/new-community-guidelines/blob/ba3181a0cc87ef6a3067a074f3ee7d5fc5fd58d3/.github/CONTRIBUTING.md)** and **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/ba3181a0cc87ef6a3067a074f3ee7d5fc5fd58d3/.github/CODE_OF_CONDUCT.md)**. These help us keep this space respectful, organized, and inclusive for everyone.
+              Before getting started, please take a moment to review our **[Contribution Guidelines](https://github.com/nicholaszein/new-community-guidelines/blob/ba3181a0cc87ef6a3067a074f3ee7d5fc5fd58d3/.github/CONTRIBUTING.md)** and **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/ba3181a0cc87ef6a3067a074f3ee7d5fc5fd58d3/.github/CODE_OF_CONDUCT.md)**. These help us keep this space organized, respectful, and inclusive for everyone.
               <br>
 
               > [!IMPORTANT]
@@ -33,7 +33,7 @@ body:
               For a quick review and efficient resolution, please ensure your report meets the following requirements.
               </summary>
 
-              - *️⃣ **All fields in this form are required** — no exceptions. <br>Incomplete issues will be closed without further action.
+              - *️⃣ **All fields in this form are required** - no exceptions. <br>Incomplete issues will be closed without further action.
 
               - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by **[using the filters at the top of the Issues list](https://github.com/nicholaszein/new-community-guidelines/issues)** to narrow your search.
 
@@ -88,7 +88,7 @@ body:
           required: true
       attributes:
           label: "Description"
-          description: "Describe the issue in detail and include as much context as possible. <br><br>Feel free to attach screenshots or screen recordings — just drag and drop them into the field below.."
+          description: "Describe the issue in detail and include as much context as possible. <br><br>Feel free to attach screenshots or screen recordings - just drag and drop them into the field below.."
           placeholder: "Please be thorough. What happened? When did it start? What page or feature does it affect? \n\nThe more information you share, the quicker we can find a solution! \n\nDrag and drop your attachments here:"
     - type: markdown
       attributes:
