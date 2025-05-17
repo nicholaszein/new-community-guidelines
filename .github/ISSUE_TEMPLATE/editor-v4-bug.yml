@@ -57,7 +57,7 @@ body:
               <summary>
               <h3>🎯 Scope</h3> <em>(click to expand)</em>
               
-              To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These types of issues will be **closed without further action**.
+              To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These issues will be **closed without further action**.
               </summary>
 
               - 🐞 **Issues unrelated to bugs in the Editor V4.** <br>If you're here to report issues with existing features of Elementor V3, please **[use our general 🐞 Bug Report form instead](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=bug.yml)**.
@@ -79,7 +79,7 @@ body:
               
               <h3>📝 Instructions</h3>
               
-              To help us understand and resolve your issue, please follow these best practices.
+              To help us understand and resolve your issue, please follow these best practices:
 
               - ✒️ **Use a clear and descriptive title.** <br>A good title helps everyone quickly understand what the issue is about. Try to summarize the problem in a few words.
 
