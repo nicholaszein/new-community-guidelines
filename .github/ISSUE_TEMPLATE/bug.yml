@@ -1,11 +1,11 @@
-name: "🐞 Report a Confirmed Bug in Elementor [Alt]"
+name: "🐞 Report a Confirmed Bug in Elementor"
 description: "Found a reproducible bug in Elementor's source code after troubleshooting? Submit it here to help us improve."
 labels: ["status/awaiting_triage"]
 body:
     - type: markdown
       attributes:
           value: |
-              # 🐞 Report a Confirmed Bug in Elementor [Alt]
+              # 🐞 Report a Confirmed Bug in Elementor
               <br>
 
               👋 **Hello, welcome to Elementor's repository!**

@@ -1,11 +1,11 @@
-name: "🐛 Report a Confirmed Bug in Editor V4 [Alt]"
+name: "🐛 Report a Confirmed Bug in Editor V4"
 description: "Report confirmed bugs in Editor V4's experimental features and help us improve the experience before the final release."
 labels: ["status/awaiting_triage", "product/editor-v4"]
 body:
     - type: markdown
       attributes:
           value: |
-              # 🐛 Report a Confirmed Bug in Editor V4 [Alt]
+              # 🐛 Report a Confirmed Bug in Editor V4
               <br>
 
               👋 **Welcome, and thank you for helping shape the future of Elementor!**
