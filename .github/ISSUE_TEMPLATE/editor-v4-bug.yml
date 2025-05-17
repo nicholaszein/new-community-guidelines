@@ -23,12 +23,12 @@ body:
               > [!IMPORTANT]
               > ### 🐛 This form is for reporting <ins>confirmed bugs in Editor V4</ins> experimental features only.
               > **We welcome your input, but please only use this form if you've already investigated and confirmed that the issue is caused specifically by Editor V4 features.**
-              >
-              > Keep in mind the **Editor V4 is a work in progress**, is subject to changes or instability during development, and should not be used on production sites.
+              > 
+              > Keep in mind **the Editor V4 is still a work in progress** - it may not include all existing features from Elementor V3, is subject to change or instability, and should not be used on production websites.
               >
               > 🧪 For discussing and sharing feedback about the **Editor V4**, please go to the dedicated Discussion Category instead: **[Discuss the Editor V4](https://github.com/nicholaszein/new-community-guidelines/discussions/categories/editor-v4)**
               >
-              > ❔ For frequent questions, check the **[Editor V4 FAQ](elemn.to/editor-v4-faq).**
+              > For frequent questions, check the **[❔ Editor V4 FAQ](elemn.to/editor-v4-faq).**
               >
               > ⚠️ _**Reports that are unrelated to Editor V4 or missing required information may be closed without further action.**_
 
