@@ -5,8 +5,8 @@
 **The Elementor GitHub organization and its repositories are collaborative spaces for web creators, developers, enthusiasts, and users to contribute, share ideas, and help shape the future of Elementor in a positive and welcoming way.**
 
 All participants are expected to follow this Code of Conduct — without exception.
-
-----
+<br>
+<br>
 
 ## Our Pledge
 
@@ -15,6 +15,8 @@ To foster an open, inclusive, and respectful environment, we are committed to pr
 This Code of Conduct outlines expectations for everyone participating in any Elementor GitHub space, as well as the consequences of violating these expectations.
 
 **We invite all contributors to help us make this a welcoming and positive experience for everyone.**
+<br>
+<br>
 
 ## Guidelines
 
@@ -49,8 +51,8 @@ Help maintain a clean and navigable community by following these best practices:
 - Do not use unrelated issues to post new bugs or feature requests.
 - Avoid “+1” or “Agreed” comments — use the upvote button where available.
 - Provide complete information when asked, especially when triaging or debugging.
-
----
+<br>
+<br>
 
 ## Expected Behavior
 
@@ -61,8 +63,8 @@ We expect participants to:
 - Listen actively and respond constructively
 - Acknowledge mistakes and learn from them
 - Create a welcoming atmosphere for everyone
-
----
+<br>
+<br>
 
 ## Unacceptable Behavior
 
@@ -74,8 +76,8 @@ We do not tolerate:
 - Disclosing private or personal information without consent
 - Spam, off-topic content, or disruptive behavior
 - Using GitHub to submit complaints about the company or staff
-
----
+<br>
+<br>
 
 ## Enforcement
 
@@ -89,14 +91,14 @@ Moderators and maintainers are responsible for upholding this Code of Conduct an
 These actions may be taken without warning or explanation, at the discretion of the moderation team.
 
 This Code of Conduct applies across all Elementor GitHub spaces — including Issues, Discussions, Pull Requests, and Comments.
-
----
+<br>
+<br>
 
 ## Reporting Concerns
 
 If you experience or witness behavior that violates this Code of Conduct, please [contact Elementor Support](https://elemn.to/contact). We will review all reports and take them seriously.
-
----
+<br>
+<br>
 
 ## Attribution
 
