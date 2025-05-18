@@ -8,6 +8,7 @@ Community contributions are always welcomed and help us remain the Number 1 Word
 
 **Before submitting contributions, all participants should read and follow these Guidelines and our [Code of Conduct](https://elemn.to/gh-code-of-conduct).**
 <br>
+<br>
 
 ## How to use GitHub
 
@@ -53,6 +54,7 @@ Alternatively, you can visit one of these resources:
 
 **As a gentle reminder, we may close support requests submitted to GitHub spaces without action.**
 <br>
+<br>
 
 ## How to report Security Issues
 
@@ -65,6 +67,7 @@ We leverage the collective expertise of our community, offering round-the-clock 
 Join our [Managed Security Bug Bounty programs](https://elemn.to/gh-to-bounty-programs) instead and help us maintain Elementor, a secure software, responsibly.
 
 **To learn more about our security efforts and how to contact us for security inquiries, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).**
+<br>
 <br>
 
 ## How to Report a Bug
@@ -144,6 +147,8 @@ To ensure we can understand and resolve the issue effectively, follow these writ
   Make clear what the correct or intended behavior should be. This helps us understand if the issue is due to a bug, a misunderstanding, or a missing feature.
 
 **As a gentle reminder, issues that do not meet these guidelines may be closed without further action. These standards ensure that our team and community contributors can manage reports effectively and focus on actionable feedback.**
+<br>
+<br>
 
 ## How to Request a Feature
 
@@ -164,6 +169,8 @@ Suggest new ideas, features, or enhancements by [submitting a Feature Request](h
 -   **Write One Request Per Thread** <br>If you have multiple requests, please submit only **<ins>ONE REQUEST PER THREAD</ins>**.
 
 **As a gentle reminder, submissions that do not meet these guidelines may be closed without further action. These standards ensure that our team and community contributors can manage reports effectively and focus on actionable feedback.**
+<br>
+<br>
 
 ## I want to Contribute
 
