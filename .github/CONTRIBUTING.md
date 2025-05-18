@@ -32,7 +32,7 @@ For any other topic, please use the appropriate channels. For all things Element
 
 ### Need Personal Help, Guidance, Assistance, or Support?
 
-**Note that we are unable to offer any support through this repository.**
+**Note that we are unable to offer any level of support through this repository.**
 
 Please **DO NOT** open issues or discussions to request for Personal Support.
 <br>For those, use the appropriate channels.
