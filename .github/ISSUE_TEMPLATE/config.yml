@@ -12,9 +12,6 @@ contact_links:
     - name: 📚 Visit the Developers Center
       url: https://elemn.to/dev-center
       about: Get technical documentation and resources to extend Elementor with custom code and integrations.
-    - name: 🌐 Developers Community
-      url: https://elemn.to/dev-community
-      about: Connect with other developers to share tips, get advice, and collaborate on extending Elementor.
     - name: 📖 Contribution Guidelines
       url: https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CONTRIBUTING.md
       about: Before submitting a bug report, feature request, or pull request, please read our Contribution Guidelines.

@@ -22,7 +22,7 @@ If you’re testing **Editor V4**, please use the following dedicated forms:
 - 🐛 [Report bugs in Editor V4](https://elemn.to/editor-v4-bugs)  
 - 🧪 [Join discussions and share feedback](https://elemn.to/editor-v4-discussion)
 
-Please note that the **Editor V4** is in active development, may be unstable, and may lack some functionality found in Elementor V3. Use it only in testing environments, and make sure to review the scope and purpose of each form before submitting your reports or feedback.
+Please note that **Editor V4** is in active development, may be unstable, and may lack some functionality found in Elementor V3. Use it only in testing environments, and make sure to review the scope and purpose of each form before submitting your reports or feedback.
 
 ### Need Personal Help, Guidance, Assistance, or Support?
 
@@ -35,14 +35,14 @@ Please **DO NOT** open issues or discussions to request for Personal Support.
 
 Alternatively, you can visit one of these resources:
 
--   **Help Center** <br>Visit the [Elementor Help Center](https://elemn.to/help) to find solutions to the most frequent problems, or read the documentation about Elementor's many features.
--   **Academy** <br>Grow your Web Creator skills and learn to make the most of Elementor in the [Elementor Academy](https://elemn.to/academy).
+-   **Help Center** <br>Visit the [Elementor Help Center](https://elemn.to/gh-to-help-center) to find solutions to the most frequent problems, or read the documentation about Elementor's many features.
+-   **Academy** <br>Grow your Web Creator skills and learn to make the most of Elementor in the [Elementor Academy](https://elemn.to/gh-to-academy).
 -   **Discord Community** <br>Connect and chat with other Web Creator in different channels (including on multiple languages) through our official [Elementor Discord Community](https://elemn.to/discord).
 -   **Global Community** <br>Join the [Elementor Global Community](https://elemn.to/community-on-fb) on Facebook. Where all kinds of users come together to help each other.
 -   **Support Forum** <br>If you have more questions, visit the free [Support Forum](https://elemn.to/wp-support-forum) on our WordPress plugin page.
--   **Elementor Website** <br>For more information about features, FAQs, and documentation, check out our website at [Elementor Website Builder](https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=contribution).
+-   **Elementor Website** <br>For more information about features, FAQs, and documentation, check out our website at [Elementor Website Builder](https://elemn.to/gh-to-elementor).
 
-**If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled to personal support. Please see your purchase email or visit your [Elementor Account page](https://my.elementor.com) for details.**
+**If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled to personal support. Please see your purchase email or visit your [Elementor Account page](https://elemn.to/my-elementor) for details.**
 
 **As a gentle reminder, we may close support requests submitted to GitHub spaces without action.**
 
@@ -58,11 +58,12 @@ Join our [Managed Security Bug Bounty programs](https://elemn.to/gh-to-bounty-pr
 
 **To learn more about our security efforts and how to contact us for security inquiries, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).**
 
+
 ## How to Report a Bug
 
 If you found a bug in the source code and can reproduce it consistently after troubleshooting it, you can help us by [submitting a Bug Report](https://elemn.to/gh-new-bug-report).
 
-### Requirements
+### 📋 Requirements
 
 To help us review and resolve your report efficiently, all submitted bug reports must meet the following requirements. These rules ensure that reported issues are actionable, reproducible, and relevant.
 
@@ -74,18 +75,18 @@ To help us review and resolve your report efficiently, all submitted bug reports
 
 - **Ensure you are using the latest stable versions.**  
   Bugs that occur in outdated versions may already be fixed. Please make sure Elementor, Elementor Pro, WordPress core, your theme, and all plugins are up to date.  
-  Check the [changelog](https://elemn.to/changelog).
+  👉 Check the [changelog](https://elemn.to/changelog).
 
 - **Clear all levels of cache.**  
   Issues caused by outdated or conflicting cached data are common. Before submitting a report, clear your browser cache, CDN cache, plugin cache, and server cache — in that order — to avoid false positives.
 
 - **Test with only Elementor, Elementor Pro, and the Hello Elementor theme active.**  
   Conflicts from third-party plugins or themes are not actionable by our team. Isolate the issue by deactivating all unrelated plugins and switching to the Hello theme before reporting the problem.  
-  See: [Troubleshooting the Editor](https://elemn.to/help-troubleshooting)
+  👉 See: [Troubleshooting the Editor](https://elemn.to/help-troubleshooting)
 
 - **Include your full Elementor System Info.**  
   This diagnostic report helps us understand your environment and replicate the issue. Reports submitted without this information will be closed.  
-  [How to get your System Info](https://elemn.to/help-system-info)
+  👉 [How to get your System Info](https://elemn.to/help-system-info)
 
 - **If you are a third-party developer, please identify yourself.**  
   Include your name, company, and a way to reach you. If your report involves compatibility with your own plugin, theme, or integration, this helps us follow up appropriately.
@@ -93,7 +94,7 @@ To help us review and resolve your report efficiently, all submitted bug reports
 - **Only one issue per report.**  
   Submitting multiple bugs in a single issue makes tracking and resolving them harder. Please open separate reports for separate problems.
 
-### Scope
+### 🎯 Scope
 
 We can only accept bug reports that fall within the scope of what we actively support. Submissions that do not meet this criteria will be closed without action.
 
@@ -118,7 +119,7 @@ We can only accept bug reports that fall within the scope of what we actively su
 - **Invalid, incomplete, or vague reports**  
   Reports missing required fields, lacking reproduction steps, or submitted without proper validation will be closed to maintain the quality and focus of the issue tracker.
 
-### Instructions
+### 📝 Instructions
 
 To ensure we can understand and resolve the issue effectively, follow these writing guidelines when filling out the form:
 
@@ -134,7 +135,6 @@ To ensure we can understand and resolve the issue effectively, follow these writ
 - **Explain what you expected to happen**  
   Make clear what the correct or intended behavior should be. This helps us understand if the issue is due to a bug, a misunderstanding, or a missing feature.
 
-**As a gentle reminder, submissions that do not meet these guidelines may be closed without further action. These standards ensure that our team and community contributors can manage reports effectively and focus on actionable feedback.**
 
 ## How to Request a Feature
 

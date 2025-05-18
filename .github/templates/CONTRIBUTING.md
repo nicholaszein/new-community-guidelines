@@ -13,36 +13,24 @@ Community contributions are always welcomed and help us remain the Number 1 Word
 We use GitHub **<ins>exclusively</ins>** for well-documented **Bug Reports**, **Feature Requests** and **Code Contributions (Pull Requests)**.
 <br>Communication should always be in **English**.
 
-## Contributing to Editor V4
-
-We are currently collecting feedback and reports for the new **Editor V4**, a complete re-architecture of the Elementor Editor focused on performance, modularity, and a CSS-first design system.
-
-If you’re testing **Editor V4**, please use the following dedicated forms:
-
-- 🐛 [Report bugs in Editor V4](https://elemn.to/editor-v4-bugs)  
-- 🧪 [Join discussions and share feedback](https://elemn.to/editor-v4-discussion)
-
-Please note that the **Editor V4** is in active development, may be unstable, and may lack some functionality found in Elementor V3. Use it only in testing environments, and make sure to review the scope and purpose of each form before submitting your reports or feedback.
-
-### Need Personal Help, Guidance, Assistance, or Support?
+### Need Help, Guidance, Assistance, or Support?
 
 **Note that we are unable to offer any support through this repository.**
 
-Please **DO NOT** open issues or discussions to request for Personal Support.
+Please **DO NOT** open issues or discussions to request support.
 <br>For those, use the appropriate channels.
 
 **Find out how to [submit a Support Ticket here](https://elemn.to/support-ticket).**
 
 Alternatively, you can visit one of these resources:
 
--   **Help Center** <br>Visit the [Elementor Help Center](https://elemn.to/help) to find solutions to the most frequent problems, or read the documentation about Elementor's many features.
--   **Academy** <br>Grow your Web Creator skills and learn to make the most of Elementor in the [Elementor Academy](https://elemn.to/academy).
--   **Discord Community** <br>Connect and chat with other Web Creator in different channels (including on multiple languages) through our official [Elementor Discord Community](https://elemn.to/discord).
+-   **Help Center** <br>Visit the [Elementor Help Center](https://elemn.to/gh-to-help-center) to find solutions to the most frequent problems, or read the documentation about Elementor's many features.
+-   **Academy** <br>Grow your Web Creator skills and learn to make the most of Elementor in the [Elementor Academy](https://elemn.to/gh-to-academy).
 -   **Global Community** <br>Join the [Elementor Global Community](https://elemn.to/community-on-fb) on Facebook. Where all kinds of users come together to help each other.
 -   **Support Forum** <br>If you have more questions, visit the free [Support Forum](https://elemn.to/wp-support-forum) on our WordPress plugin page.
--   **Elementor Website** <br>For more information about features, FAQs, and documentation, check out our website at [Elementor Website Builder](https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=contribution).
+-   **Elementor Website** <br>For more information about features, FAQs, and documentation, check out our website at [Elementor Website Builder](https://elemn.to/gh-to-elementor).
 
-**If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled to personal support. Please see your purchase email or visit your [Elementor Account page](https://my.elementor.com) for details.**
+**If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled to personal support. Please see your purchase email or visit your [Elementor Account page](https://elemn.to/my-elementor) for details.**
 
 **As a gentle reminder, we may close support requests submitted to GitHub spaces without action.**
 
@@ -62,79 +50,20 @@ Join our [Managed Security Bug Bounty programs](https://elemn.to/gh-to-bounty-pr
 
 If you found a bug in the source code and can reproduce it consistently after troubleshooting it, you can help us by [submitting a Bug Report](https://elemn.to/gh-new-bug-report).
 
-### Requirements
+### Before submitting your Bug Report, follow these best practices to help save time
 
-To help us review and resolve your report efficiently, all submitted bug reports must meet the following requirements. These rules ensure that reported issues are actionable, reproducible, and relevant.
+-   **Search Before Posting** <br>Please [search for similar issues](https://elemn.to/gh-issues) (both open and closed) to prevent creating duplicates. <br>Use [GitHub Labels](https://elemn.to/gh-labels) to refine your serach.
+-   **Stay Up-to-date** <br>Ensure you are using the [most recent and stable versions](https://elemn.to/changelog) of Elementor (and Elementor Pro), as well as all installed plugins, themes, and WordPress.
+-   **Troubleshoot your Issue** <br>Visit our [Help Center](https://elemn.to/gh-to-help-center) and use the search function to find [troubleshooting articles](https://elemn.to/help-troubleshooting) for the most common problems that can be solved quickly.
+-   **Isolate the Problem and Validate your Issue** <br>Ensure your issue happens when only the **Elementor (and Elementor Pro)** plugins are active while also using the [Hello Elementor theme](https://elemn.to/wp-hello-elementor-theme). <br>Isolating the problem helps identify if Elementor causes the issue you're experiencing
+-   **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your issue at a glance without needing to read the description.
+-   **Provide a Detailed Description** <br>Please help us understand in detail what problems you are experiencing. <br>Give a detailed description of your problem, and provide examples, screenshots, screen recordings, and related links.
+-   **Explain how we can Recreate your Issue** <br>Enumerate all the steps needed to reproduce the issue in detail so we can replicate it in our environment.
+-   **Tell us what you were Expecting to Happen** <br>Describe the **Expected Behavior** to help identify the root of the issue.
+-   **Share the Elementor System Info** <br>Be ready to share a full copy of the [Elementor System Info](https://elemn.to/help-system-info) report from your WordPress **`Dashboard`** > **`Elementor`** > **`System Info`** page (available at the bottom of the page). <br>**We won't accept issues without it. [Learn how to copy it here](https://elemn.to/help-system-info).**
+-   **Write One Bug Report per Issue** <br>If you are experiencing more than one bug, submit only **<ins>ONE BUG PER ISSUE</ins>**.
 
-- **All fields in the bug report form are required — no exceptions.**  
-  Missing or incomplete information leads to unnecessary delays and often makes issues unreviewable. Issues missing required fields may be closed without review.
-
-- **Search for similar issues before opening a new one.**  
-  Duplicate reports create unnecessary noise and slow down the triaging process. Before posting, search the [open and closed issues](https://elemn.to/gh-issues) to see if your problem has already been reported or addressed.
-
-- **Ensure you are using the latest stable versions.**  
-  Bugs that occur in outdated versions may already be fixed. Please make sure Elementor, Elementor Pro, WordPress core, your theme, and all plugins are up to date.  
-  Check the [changelog](https://elemn.to/changelog).
-
-- **Clear all levels of cache.**  
-  Issues caused by outdated or conflicting cached data are common. Before submitting a report, clear your browser cache, CDN cache, plugin cache, and server cache — in that order — to avoid false positives.
-
-- **Test with only Elementor, Elementor Pro, and the Hello Elementor theme active.**  
-  Conflicts from third-party plugins or themes are not actionable by our team. Isolate the issue by deactivating all unrelated plugins and switching to the Hello theme before reporting the problem.  
-  See: [Troubleshooting the Editor](https://elemn.to/help-troubleshooting)
-
-- **Include your full Elementor System Info.**  
-  This diagnostic report helps us understand your environment and replicate the issue. Reports submitted without this information will be closed.  
-  [How to get your System Info](https://elemn.to/help-system-info)
-
-- **If you are a third-party developer, please identify yourself.**  
-  Include your name, company, and a way to reach you. If your report involves compatibility with your own plugin, theme, or integration, this helps us follow up appropriately.
-
-- **Only one issue per report.**  
-  Submitting multiple bugs in a single issue makes tracking and resolving them harder. Please open separate reports for separate problems.
-
-### Scope
-
-We can only accept bug reports that fall within the scope of what we actively support. Submissions that do not meet this criteria will be closed without action.
-
-- **Requests for personal support**  
-  GitHub is not a support channel. For assistance with setup, troubleshooting, or how-to questions, please contact our [Support Team](https://elemn.to/support-ticket) or visit our Help Center.
-
-- **Conflicts with third-party plugins, themes, or services**  
-  If the issue only occurs when using tools not officially supported by Elementor, please contact the third-party developer. We do not triage or resolve external compatibility issues.
-
-- **Feature requests or missing functionality**  
-  If something is not broken but simply not yet supported, it’s not a bug. Please use the [Feature Request form](https://elemn.to/gh-new-feature-request) instead.
-
-- **Custom code and unsupported modifications**  
-  We cannot help debug issues related to custom snippets, template overrides, or undocumented modifications. Refer to our [Developer Documentation](https://elemn.to/dev-docs) if you’re building custom integrations.
-
-- **Security issues**  
-  Do not disclose vulnerabilities here. Use our [Bug Bounty Program](https://elemn.to/bug-bounty) for coordinated and responsible security reporting.
-
-- **Complaints, feedback, or inappropriate content**  
-  GitHub issues are not the right place for complaints about Elementor’s products, pricing, or policies. We also do not tolerate hostile, discriminatory, or disrespectful remarks. See our [Code of Conduct](https://elemn.to/gh-code-of-conduct).
-
-- **Invalid, incomplete, or vague reports**  
-  Reports missing required fields, lacking reproduction steps, or submitted without proper validation will be closed to maintain the quality and focus of the issue tracker.
-
-### Instructions
-
-To ensure we can understand and resolve the issue effectively, follow these writing guidelines when filling out the form:
-
-- **Use a clear and descriptive title**  
-  A well-written title helps other users (and our team) quickly understand what the report is about and whether it might be related to other reports.
-
-- **Describe the issue in detail**  
-  Explain what happened, when it happened, and what part of Elementor is affected. Include any error messages, behavior patterns, and relevant context. Screenshots and screen recordings are especially helpful.
-
-- **List all steps to reproduce the issue**  
-  Reproduction steps are essential for verifying and fixing bugs. Provide a step-by-step list of what you did, ideally on a clean WordPress install. If we cannot reproduce the issue, we cannot resolve it.
-
-- **Explain what you expected to happen**  
-  Make clear what the correct or intended behavior should be. This helps us understand if the issue is due to a bug, a misunderstanding, or a missing feature.
-
-**As a gentle reminder, submissions that do not meet these guidelines may be closed without further action. These standards ensure that our team and community contributors can manage reports effectively and focus on actionable feedback.**
+**As a gentle reminder, we may close issues that do not comply with these guidelines without action.**
 
 ## How to Request a Feature
 
@@ -154,7 +83,7 @@ Suggest new ideas, features, or enhancements by [submitting a Feature Request](h
 -   **Give Additional Context** <br>Add context to your suggestion by providing examples, screenshots, screen recordings, related links, and additional information that might help us understand your request better.
 -   **Write One Request Per Thread** <br>If you have multiple requests, please submit only **<ins>ONE REQUEST PER THREAD</ins>**.
 
-**As a gentle reminder, submissions that do not meet these guidelines may be closed without further action. These standards ensure that our team and community contributors can manage reports effectively and focus on actionable feedback.**
+**As a gentle reminder, we may close requests that do not comply with these guidelines without action.**
 
 ## I want to Contribute
 
@@ -199,5 +128,5 @@ Your contributions, big or small, play a significant part in the continued devel
 
 -   [Elementor Developers Center](https://elemn.to/gh-to-dev-center)
 -   [Elementor Developers Documentation](https://elemn.to/gh-to-dev-docs)
--   [GitHub's official Support and General Documentation](https://elemn.to/gh-support-center)
--   [GitHub's official Pull Request Documentation](https://elemn.to/gh-support-pull-requests)
+-   [GitHub Support and General Documentation](https://elemn.to/gh-support-center)
+-   [GitHub Pull Request Documentation](https://elemn.to/gh-support-pull-requests)
