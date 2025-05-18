@@ -13,7 +13,7 @@ Community contributions are always welcomed and help us remain the Number 1 Word
 We use GitHub **<ins>exclusively</ins>** for well-documented **Bug Reports**, **Feature Requests** and **Code Contributions (Pull Requests)**.
 <br>Communication should always be in **English**.
 
-For any other topic, please use other channels. For all things Elementor visit our website: [https://elementor.com](https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=contribution).
+For any other topic, please use the appropriate channels. For all things Elementor visit our website: [https://elementor.com](https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=contribution).
 <br>
 <br>
 
@@ -28,6 +28,7 @@ For any other topic, please use other channels. For all things Elementor visit o
 > - [Join discussions and share feedback](https://elemn.to/editor-v4-discussion)
 > 
 > Please note that the **Editor V4** is in active development, may be unstable, and may lack some functionality found in Elementor V3. Use it only in testing environments, and make sure to review the scope and purpose of each form before submitting your reports or feedback.
+<br>
 
 ### Need Personal Help, Guidance, Assistance, or Support?
 
