@@ -13,16 +13,18 @@ Community contributions are always welcomed and help us remain the Number 1 Word
 We use GitHub **<ins>exclusively</ins>** for well-documented **Bug Reports**, **Feature Requests** and **Code Contributions (Pull Requests)**.
 <br>Communication should always be in **English**.
 
-## Contributing to Editor V4
-
-We are currently collecting feedback and reports for the new **Editor V4**, a complete re-architecture of the Elementor Editor focused on performance, modularity, and a CSS-first design system.
-
-If you’re testing **Editor V4**, please use the following dedicated forms:
-
-- 🐛 [Report bugs in Editor V4](https://elemn.to/editor-v4-bugs)  
-- 🧪 [Join discussions and share feedback](https://elemn.to/editor-v4-discussion)
-
-Please note that the **Editor V4** is in active development, may be unstable, and may lack some functionality found in Elementor V3. Use it only in testing environments, and make sure to review the scope and purpose of each form before submitting your reports or feedback.
+> [!NOTE]
+> ### Contributing to Editor V4
+> 
+> We are currently collecting feedback and reports for the new **Editor V4**, a complete re-architecture of the Elementor Editor focused on performance, modularity, and a CSS-first design system.
+> 
+> If you're testing **Editor V4**, please use the following dedicated forms:
+> 
+> - [Report bugs in Editor V4](https://elemn.to/editor-v4-bugs)  
+> - [Join discussions and share feedback](https://elemn.to/editor-v4-discussion)
+> 
+> Please note that the **Editor V4** is in active development, may be unstable, and may lack some functionality found in Elementor V3. Use it only in testing environments, and make sure to review the scope and purpose of each form before submitting your reports or feedback.
+<br>
 
 ### Need Personal Help, Guidance, Assistance, or Support?
 
@@ -98,22 +100,22 @@ To help us review and resolve your report efficiently, all submitted bug reports
 We can only accept bug reports that fall within the scope of what we actively support. Submissions that do not meet this criteria will be closed without action.
 
 - **Requests for personal support**  
-  GitHub is not a support channel. For assistance with setup, troubleshooting, or how-to questions, please contact our [Support Team](https://elemn.to/support-ticket) or visit our Help Center.
+  GitHub is not an efficient support channel. For assistance with setup, common issues, troubleshooting, or how-to questions, please contact our [Support Team](https://elemn.to/support-ticket) or visit our [Help Center](https://elemn.to/help).
 
 - **Conflicts with third-party plugins, themes, or services**  
   If the issue only occurs when using tools not officially supported by Elementor, please contact the third-party developer. We do not triage or resolve external compatibility issues.
 
 - **Feature requests or missing functionality**  
-  If something is not broken but simply not yet supported, it’s not a bug. Please use the [Feature Request form](https://elemn.to/gh-new-feature-request) instead.
+  If something is not broken but simply not yet supported, it's not a bug. Please use the [Feature Request form](https://elemn.to/gh-new-feature-request) instead.
 
 - **Custom code and unsupported modifications**  
-  We cannot help debug issues related to custom snippets, template overrides, or undocumented modifications. Refer to our [Developer Documentation](https://elemn.to/dev-docs) if you’re building custom integrations.
+  We cannot help debug issues related to custom snippets, hooks, filters, overrides, or undocumented modifications. Refer to our [Developer Documentation](https://elemn.to/dev-docs) if you're building custom integrations.
 
 - **Security issues**  
-  Do not disclose vulnerabilities here. Use our [Bug Bounty Program](https://elemn.to/bug-bounty) for coordinated and responsible security reporting.
+  We take security very seriously. And we want to resolved in a responsible manner. Please, do not disclose vulnerabilities as bug reports. Use our [Bug Bounty Program](https://elemn.to/gh-to-bounty-programs) for coordinated and responsible security reporting.
 
-- **Complaints, feedback, or inappropriate content**  
-  GitHub issues are not the right place for complaints about Elementor’s products, pricing, or policies. We also do not tolerate hostile, discriminatory, or disrespectful remarks. See our [Code of Conduct](https://elemn.to/gh-code-of-conduct).
+- **Complaints, negative feedback, or inappropriate content**  
+  GitHub issues are not the right place for complaints about Elementor's products, services, or policies. We also do not tolerate hostile, discriminatory, or disrespectful remarks. See our [Code of Conduct](https://elemn.to/gh-code-of-conduct).
 
 - **Invalid, incomplete, or vague reports**  
   Reports missing required fields, lacking reproduction steps, or submitted without proper validation will be closed to maintain the quality and focus of the issue tracker.
@@ -129,12 +131,12 @@ To ensure we can understand and resolve the issue effectively, follow these writ
   Explain what happened, when it happened, and what part of Elementor is affected. Include any error messages, behavior patterns, and relevant context. Screenshots and screen recordings are especially helpful.
 
 - **List all steps to reproduce the issue**  
-  Reproduction steps are essential for verifying and fixing bugs. Provide a step-by-step list of what you did, ideally on a clean WordPress install. If we cannot reproduce the issue, we cannot resolve it.
+  Reproduction steps are essential for verifying and fixing bugs. Provide a step-by-step list of what you did, so we can reproduce it - ideally on a clean WordPress install. If we cannot reproduce the issue, we cannot resolve it.
 
 - **Explain what you expected to happen**  
   Make clear what the correct or intended behavior should be. This helps us understand if the issue is due to a bug, a misunderstanding, or a missing feature.
 
-**As a gentle reminder, submissions that do not meet these guidelines may be closed without further action. These standards ensure that our team and community contributors can manage reports effectively and focus on actionable feedback.**
+**As a gentle reminder, issues that do not meet these guidelines may be closed without further action. These standards ensure that our team and community contributors can manage reports effectively and focus on actionable feedback.**
 
 ## How to Request a Feature
 
