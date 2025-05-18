@@ -35,7 +35,7 @@ Our community is open to contributors of all backgrounds and experience levels. 
 Critique ideas, not individuals.  
 Keep discussions relevant to Elementor products — political, religious, or unrelated topics are not allowed.
 
-> Inflammatory, offensive, or off-topic discussions may be removed without warning or explanation.
+> _Inflammatory, offensive, or off-topic discussions may be removed without warning or explanation._
 
 ### Stay organized  
 
