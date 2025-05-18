@@ -124,8 +124,8 @@ We can only accept bug reports that fall within the scope of what we actively su
 - **Security issues**  
   We take security very seriously. And we want to resolved in a responsible manner. Please, do not disclose vulnerabilities as bug reports. Use our [Bug Bounty Program](https://elemn.to/gh-to-bounty-programs) for coordinated and responsible security reporting.
 
-- **Complaints, negative feedback, or inappropriate content**  
-  GitHub issues are not the right place for complaints about Elementor's products, services, or policies. We also do not tolerate hostile, discriminatory, or disrespectful remarks. See our [Code of Conduct](https://elemn.to/gh-code-of-conduct).
+- **Complaints, or inappropriate content**  
+  GitHub issues are not the right place for complaints about Elementor's products, services, or policies. Reach out to Elementor Support Instead. We also do not tolerate hostile, discriminatory, or disrespectful remarks. See our [Code of Conduct](https://elemn.to/gh-code-of-conduct).
 
 - **Invalid, incomplete, or vague reports**  
   Reports missing required fields, lacking reproduction steps, or submitted without proper validation will be closed to maintain the quality and focus of the issue tracker.
@@ -141,7 +141,7 @@ To ensure we can understand and resolve the issue effectively, follow these writ
   Explain what happened, when it happened, and what part of Elementor is affected. Include any error messages, behavior patterns, and relevant context. Screenshots and screen recordings are especially helpful.
 
 - **List all steps to reproduce the issue**  
-  Reproduction steps are essential for verifying and fixing bugs. Provide a step-by-step list of what you did, so we can reproduce it - ideally on a clean WordPress install. If we cannot reproduce the issue, we cannot resolve it.
+  Reproduction steps are essential for verifying and fixing bugs. Provide a step-by-step guide of what you did, so we can reproduce it - ideally on a clean WordPress install. If we cannot reproduce the issue, we cannot resolve it.
 
 - **Explain what you expected to happen**  
   Make clear what the correct or intended behavior should be. This helps us understand if the issue is due to a bug, a misunderstanding, or a missing feature.
@@ -152,23 +152,67 @@ To ensure we can understand and resolve the issue effectively, follow these writ
 
 ## How to Request a Feature
 
-Do you have a brilliant idea, enhancement, or feature you would love to see in Elementor? We're all ears!
+Have an idea to improve Elementor? We're always open to feedback that helps us create better tools for web creators. If you'd like to request a new feature or enhancement, you can do so by [submitting a Feature Request](https://elemn.to/gh-new-feature-request).
 
-Suggest new ideas, features, or enhancements by [submitting a Feature Request](https://elemn.to/gh-new-feature-request).
-<br>You can also support existing ideas by [voting for your favorite requests](https://elemn.to/gh-feature-requests).
+You can also support existing ideas by [voting for your favorite requests](https://elemn.to/gh-feature-requests).
+<br>
 
-### Before submitting a new Feature Request, follow these best practices to help save time
+### Requirements
 
--   **Search Before Posting** <br>Before creating a new Feature Request, please [search for similar requests](https://elemn.to/gh-feature-requests) to prevent creating duplicates.
--   **Confirm Before Posting** <br>Please check the [Elementor Features page](https://elemn.to/features) before posting to avoid requesting an existing feature.
--   **Write a Clear and Concise Title** <br>Summarize your title in a short sentence that can help identify your request at a glance without needing to read the description.
--   **Provide a Detailed Description** <br>Elaborate on how you envision the feature. Include examples, use cases, and any other relevant details.
--   **Describe the Solution** <br>Describe how you'd like a solution to be implemented.
--   **Provide Alternatives** <br>Mention any alternative solutions or workarounds you've considered.
--   **Give Additional Context** <br>Add context to your suggestion by providing examples, screenshots, screen recordings, related links, and additional information that might help us understand your request better.
--   **Write One Request Per Thread** <br>If you have multiple requests, please submit only **<ins>ONE REQUEST PER THREAD</ins>**.
+To help us evaluate suggestions effectively, all submitted feature requests must meet the following requirements. These rules ensure each request is unique, well-defined, and relevant to Elementor's core product vision.
 
-**As a gentle reminder, submissions that do not meet these guidelines may be closed without further action. These standards ensure that our team and community contributors can manage reports effectively and focus on actionable feedback.**
+- **Search for existing requests before posting.**  
+  Duplicate requests reduce clarity and fragment community support. Please search both [open and closed requests](https://elemn.to/gh-feature-requests) to avoid duplicates. Prefer to always Vote for existing requests instead of submitting new ones.
+
+- **Verify that the feature is not already available.**  
+  Before suggesting a new feature, check the [Features page](https://elemn.to/features) and your current Elementor setup to confirm it doesn't already exist.
+
+- **Submit only one request per thread.**  
+  Submitting multiple suggestions in one request makes it harder to discuss, prioritize, and track individual ideas. Use one form per idea.
+
+- **Be specific about what problem the feature solves.**  
+  A request that's grounded in a clear problem is easier to evaluate and more likely to be prioritized. Vague requests or "nice-to-have" ideas without a real use case may be closed.
+
+- **Explain your proposed solution clearly.**  
+  The more detail you provide, the easier it is for our team (and the community) to understand how this could be implemented ad Vote for it.
+
+### Scope
+
+To stay focused and productive, we may close requests that do not meet the following criteria:
+
+- **Out of scope for Elementor's core mission.**  
+  Requests that require major architectural changes, niche workflows, or overlap with third-party integrations that Elementor doesn't directly support may fall outside the product roadmap.
+
+- **Already supported or recently released features.**  
+  If the feature already exists or was just released, we may close the request and link to the existing implementation.
+
+- **Bug reports, support requests, or custom code questions.**  
+  These belong in other dedicated forms. Please report confirmed bugs using the [Bug Report form](https://elemn.to/gh-new-bug-report), and use [Support Channels](https://elemn.to/support-ticket) for troubleshooting or help with custom code.
+
+- **Low-detail or unclear submissions.**  
+  Requests lacking context, justification, or clear value may be closed to keep the list relevant and actionable.
+
+### Instructions
+
+To ensure your suggestion is well understood, please include the following in your request:
+
+- **A clear and descriptive title.**  
+  Helps others quickly understand the purpose of your request.
+
+- **The problem it solves.**  
+  Describe the need or limitation this feature would address.
+
+- **Your proposed solution.**  
+  Explain what you'd like to see added or changed in Elementor.
+
+- **Any alternatives you've considered.**  
+  If you've tried workarounds or plugins, share your experience.
+
+- **Extra context.**  
+  Screenshots, examples, or links to related ideas can help others understand your vision.
+<br>
+
+**As a gentle reminder, Feature Request discussions that do not meet these guidelines may be closed without further action. These standards ensure that our team and community contributors can manage reports effectively and focus on actionable feedback.**
 <br>
 <br>
 
