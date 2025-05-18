@@ -7,6 +7,7 @@
 Community contributions are always welcomed and help us remain the Number 1 WordPress Website Builder. Contributors can answer questions on all Elementor GitHub spaces or submit their contributions in the appropriate channels.
 
 **Before submitting contributions, all participants should read and follow these Guidelines and our [Code of Conduct](https://elemn.to/gh-code-of-conduct).**
+<br>
 
 ## How to use GitHub
 
@@ -51,6 +52,7 @@ Alternatively, you can visit one of these resources:
 **If you have an active [Elementor Pro](https://elemn.to/gh-to-elementor-pro) subscription, you are entitled to personal support. Please see your purchase email or visit your [Elementor Account page](https://my.elementor.com) for details.**
 
 **As a gentle reminder, we may close support requests submitted to GitHub spaces without action.**
+<br>
 
 ## How to report Security Issues
 
@@ -63,6 +65,7 @@ We leverage the collective expertise of our community, offering round-the-clock 
 Join our [Managed Security Bug Bounty programs](https://elemn.to/gh-to-bounty-programs) instead and help us maintain Elementor, a secure software, responsibly.
 
 **To learn more about our security efforts and how to contact us for security inquiries, please visit our [Trust Center](https://elemn.to/gh-to-trust-center).**
+<br>
 
 ## How to Report a Bug
 
