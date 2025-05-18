@@ -15,6 +15,7 @@ We use GitHub **<ins>exclusively</ins>** for well-documented **Bug Reports**, **
 
 For any other topic, please use other channels. For all things Elementor visit our website: [https://elementor.com](https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=contribution).
 <br>
+<br>
 
 > [!NOTE]
 > ### Contributing to Editor V4
