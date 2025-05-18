@@ -6,7 +6,7 @@
 
 All participants are expected to follow this Code of Conduct — without exception.
 
-----
+---
 
 ## Our Pledge
 
@@ -14,34 +14,32 @@ To foster an open, inclusive, and respectful environment, we are committed to pr
 
 This Code of Conduct outlines expectations for everyone participating in any Elementor GitHub space, as well as the consequences of violating these expectations.
 
-**We invite all contributors to help us make this a welcoming and positive experience for everyone.**
+We invite all contributors to help us make this a welcoming and positive experience for everyone.
+
+---
 
 ## Guidelines
 
 To ensure that everyone feels welcome and safe, we ask all participants to follow these guidelines:
 
-### Be Respecful and Kind
-
+### Be respectful and empathetic  
 Treat everyone with kindness and consideration. We welcome healthy discussions, but we do not tolerate disrespect, discrimination, or exclusionary behavior.
 
-### Be Welcoming and Open-minded
-
+### Be open and welcoming  
 Our community is open to contributors of all backgrounds and experience levels. Be patient, especially with newcomers. Value different perspectives.
 
 ### Be constructive and stay on topic  
-
 Critique ideas, not individuals.  
 Keep discussions relevant to Elementor products — political, religious, or unrelated topics are not allowed.
 
 > Inflammatory, offensive, or off-topic discussions may be removed without warning or explanation.
 
 ### Stay organized  
-
 Help maintain a clean and navigable community by following these best practices:
 
 - Follow our [Contribution Guidelines](https://elemn.to/gh-contributing).
 - Use [Issues](https://elemn.to/gh-issues) only for reproducible bugs.
-- Use [Feature Request discussions](https://elemn.to/gh-feature-requests) to request new features.
+- Use [Discussions](https://elemn.to/gh-feature-requests) to request new features.
 - Do not use GitHub for support requests or complaints — use our [official support channels](https://elemn.to/support-ticket).
 - Search before opening new threads.
 - Troubleshoot before reporting bugs.
