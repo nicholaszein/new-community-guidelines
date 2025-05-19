@@ -1,5 +1,5 @@
 name: "🐛 Report a Confirmed Bug in Editor V4"
-description: "Report confirmed bugs in Editor V4's experimental features and help us improve the experience before the final release."
+description: "Report confirmed bugs in Editor V4's features and help us improve the experience before the final release."
 labels: ["status/awaiting_triage", "product/editor-v4"]
 body:
     - type: markdown
@@ -12,7 +12,7 @@ body:
 
               We're excited to introduce the **Editor V4** - a refreshed foundation for the Elementor Editor that improves performance, responsiveness, and workflow experience.
 
-              Your feedback is incredibly valuable. Use this form to report bugs related to Editor V4's experimental features. Every report helps us create a better product before its full release.
+              Your feedback is incredibly valuable. Use this form to report bugs related to Editor V4's features. Every report helps us create a better product before its full release.
               <br>
 
               ## 🧭 Guidelines
@@ -21,7 +21,7 @@ body:
               <br>
 
               > [!IMPORTANT]
-              > ### 🐛 This form is for reporting <ins>confirmed bugs in Editor V4</ins> experimental features only.
+              > ### 🐛 This form is for reporting <ins>confirmed bugs in Editor V4</ins> features only.
               > **We welcome your input, but please only use this form if you've already investigated and confirmed that the issue is caused specifically by Editor V4 features.**
               > 
               > ℹ️ Keep in mind **the Editor V4 is still a work in progress** - it may not include all existing features from Elementor V3, is subject to change or instability, and should not be used on production websites.
@@ -62,7 +62,7 @@ body:
 
               - 🛟 **Requests for personal support** <br>This includes help with setup, troubleshooting, or usage guidance. For that, please contact one of our **[official Support Channels](https://elemn.to/support-ticket)**.
 
-              - 🧩 **Conflicts with 3rd-party plugins, themes, or services.** <br>We're only able to address issues related to **Editor V4** experimental features enable. If the problem occurs when using a plugin, theme, or integration that is not officially supported by Elementor, please reach out to the 3rd-party provider for assistance.
+              - 🧩 **Conflicts with 3rd-party plugins, themes, or services.** <br>We're only able to address issues related to **Editor V4** features enable. If the problem occurs when using a plugin, theme, or integration that is not officially supported by Elementor, please reach out to the 3rd-party provider for assistance.
 
               - 🚀 **Feature requests or suggestions.** <br>We love your ideas! But this form is only for confirmed bugs. This includes missing but not supported or intended features. Please use the dedicated Feature Request form instead. <br>See: **[Request a Feature](https://github.com/nicholaszein/new-community-guidelines/discussions/new?category=feature-request)**
 
