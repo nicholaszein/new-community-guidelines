@@ -12,7 +12,7 @@ body:
 
               ## 🧭 Guidelines
 
-              Before getting started, please take a moment to review our **[Contribution Guidelines](https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CONTRIBUTING.md)** and **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CODE_OF_CONDUCT.md)**. These help us keep this space organized, respectful, and inclusive for everyone.
+              Before getting started, please take a moment to review our **[Contribution Guidelines](https://elemn.to/gh-contributing)** and **[Code of Conduct](https://elemn.to/gh-code-of-conduct)**. These help us keep this space organized, respectful, and inclusive for everyone.
               <br>
 
               > [!IMPORTANT]
@@ -32,7 +32,7 @@ body:
               To increase the chances of your request being selected for implementation, please ensure your Feature Request meets the following requirements.
               </summary>
 
-              - 🔍 **Search for similar Feature Requests before opening a new one.** <br>Avoid duplicates and save time by **[using the filters at the top of the Feature Requests list](https://github.com/nicholaszein/new-community-guidelines/discussions/categories/feature-request)** to narrow your search.
+              - 🔍 **Search for similar Feature Requests before opening a new one.** <br>Avoid duplicates and save time by **[using the filters at the top of the Feature Requests list](https://elemn.to/gh-feature-requests)** to narrow your search.
 
               - 🗳️ **Vote for existing Feature Requests.** <br>Instead of opening a new discussion or writing "+1", use the **Upvote** button to express your interest in suggested features. The most voted Feature Requests are more likely to be considered for implementation in future versions.
 
@@ -47,13 +47,13 @@ body:
 
               - 🛟 **Requests for personal support** <br>This includes help with setup, troubleshooting, or usage guidance. For that, please contact one of our **[official Support Channels](https://elemn.to/support-ticket)**.
 
-              - 🐞 **Bug Reports and conflicts** <br>If you're here to report issues with existing features in Elementor, please **[use our 🐞 Bug Report form instead](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=bug.yml)** <br>We're only able to address issues related to Elementor and Elementor Pro directly. If the problem occurs when using a plugin, theme, or integration that is not officially supported by Elementor, please reach out to the 3rd-party provider for assistance.
+              - 🐞 **Bug Reports and conflicts** <br>If you're here to report issues with existing features in Elementor, please **[use our 🐞 Bug Report form instead](https://elemn.to/gh-new-bug-report)** <br>We're only able to address issues related to Elementor and Elementor Pro directly. If the problem occurs when using a plugin, theme, or integration that is not officially supported by Elementor, please reach out to the 3rd-party provider for assistance.
 
               - 📚 **Questions about custom code or extending Elementor.** <br>We cannot provide assistance with writing or debugging custom code. If your goal is to extend Elementor, we recommend referring to our **[Developers Documentation](https://elemn.to/dev-docs)**.
 
               - 🛡️ **Security and vulnerability disclosures.** <br>We take security seriously. Please use our managed **[Bug Bounty Programs](https://elemn.to/bug-bounty)** to responsibly report security issues.
 
-              - ☹️ **Complaints or offensive content.** <br>While we are open to feedback, this is not the appropriate place to submit complaints about Elementor's products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CODE_OF_CONDUCT.md)**.
+              - ☹️ **Complaints or offensive content.** <br>While we are open to feedback, this is not the appropriate place to submit complaints about Elementor's products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](https://elemn.to/gh-code-of-conduct)**.
 
               - ❌ **Incomplete, invalid, or out-of-scope discussions.** <br>Discussions without clear descriptions, or unrelated to Elementor or Elementor Pro feature suggestions will be closed without further action.
               </details>

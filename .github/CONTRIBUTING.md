@@ -26,8 +26,8 @@ For any other topic, please use the appropriate channels. For all things Element
 > 
 > If you're testing **Editor V4**, please use the following dedicated forms:
 > 
-> - [Report bugs in Editor V4](https://elemn.to/editor-v4-bugs)  
-> - [Join discussions and share feedback](https://elemn.to/editor-v4-discussion)
+> - [Report bugs in Editor V4](https://elemn.to/editor-v4-issues)  
+> - [Join discussions and share feedback](https://elemn.to/editor-v4-feedback)
 > 
 > Please note that the **Editor V4** is in active development, may be unstable, and may lack some functionality found in Elementor V3. Use it only in testing environments, and make sure to review the scope and purpose of each form before submitting your reports or feedback.
 <br>

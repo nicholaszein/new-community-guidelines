@@ -17,7 +17,7 @@ body:
 
               ## 🧭 Guidelines
 
-              Before getting started, please take a moment to review our **[Contribution Guidelines](https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CONTRIBUTING.md)** and **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CODE_OF_CONDUCT.md)**. These help us keep this space organized, respectful, and inclusive for everyone.
+              Before getting started, please take a moment to review our **[Contribution Guidelines](https://elemn.to/gh-contributing)** and **[Code of Conduct](https://elemn.to/gh-code-of-conduct)**. These help us keep this space organized, respectful, and inclusive for everyone.
               <br>
 
               > [!IMPORTANT]
@@ -26,7 +26,7 @@ body:
               > 
               > ℹ️ Keep in mind **the Editor V4 is still a work in progress** - it may not include all existing features from Elementor V3, is subject to change or instability, and should not be used on production websites.
               >
-              > 🧪 For discussing and sharing feedback about the **Editor V4**, please go to the dedicated Discussion Category instead: **[Discuss the Editor V4](https://github.com/nicholaszein/new-community-guidelines/discussions/categories/editor-v4)**
+              > 🧪 For discussing and sharing feedback about the **Editor V4**, please go to the dedicated Discussion Category instead: **[Discuss the Editor V4](https://elemn.to/editor-v4-feedback)**
               >
               > ⚠️ _**Issues that are unrelated to Editor V4 or missing required information may be closed without further action.**_
 
@@ -39,7 +39,7 @@ body:
 
               - *️⃣ **All fields in this form are required** - no exceptions. <br>Incomplete issues will be closed without further action.
 
-              - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[editor-v4](https://github.com/nicholaszein/new-community-guidelines/issues?q=is%3Aissue%20state%3Aopen%20label%3Aproduct%2Feditor-v4)** label to narrow your search.
+              - 🔍 **Search for similar issues before opening a new one.** <br>Avoid duplicates and save time by using the **[editor-v4](https://elemn.to/editor-v4-issues)** label to narrow your search.
 
               - 🗑️ **Clear all relevant cache layers.** <br>Confirm the issue is not being caused by old cached data. <br>Please clear server cache, site-level cache (including plugin-based cache), CDN cache, and your browser cache - in that order to avoid possible cache conflicts.
 
@@ -58,19 +58,19 @@ body:
               To keep this repository focused and efficient, there are some types of reports that we are unable to handle here. These issues will be **closed without further action**.
               </summary>
 
-              - 🐞 **Issues unrelated to bugs in the Editor V4.** <br>If you're here to report issues with existing features in Elementor V3, please **[use our general 🐞 Bug Report form instead](https://github.com/nicholaszein/new-community-guidelines/issues/new?template=bug.yml)**.
+              - 🐞 **Issues unrelated to bugs in the Editor V4.** <br>If you're here to report issues with existing features in Elementor V3, please **[use our general 🐞 Bug Report form instead](https://elemn.to/gh-new-bug-report)**.
 
               - 🛟 **Requests for personal support** <br>This includes help with setup, troubleshooting, or usage guidance. For that, please contact one of our **[official Support Channels](https://elemn.to/support-ticket)**.
 
               - 🧩 **Conflicts with 3rd-party plugins, themes, or services.** <br>We're only able to address issues related to **Editor V4** features enable. If the problem occurs when using a plugin, theme, or integration that is not officially supported by Elementor, please reach out to the 3rd-party provider for assistance.
 
-              - 🚀 **Feature requests or suggestions.** <br>We love your ideas! But this form is only for confirmed bugs. This includes missing but not supported or intended features. Please use the dedicated Feature Request form instead. <br>See: **[Request a Feature](https://github.com/nicholaszein/new-community-guidelines/discussions/new?category=feature-request)**
+              - 🚀 **Feature requests or suggestions.** <br>We love your ideas! But this form is only for confirmed bugs. This includes missing but not supported or intended features. Please use the dedicated Feature Request form instead. <br>See: **[Request a Feature](https://elemn.to/gh-new-feature-request)**
 
               - 📚 **Questions about custom code or extending Elementor.** <br>We cannot provide assistance with writing or debugging custom code. If your goal is to extend Elementor, we recommend referring to our **[Developers Documentation](https://elemn.to/dev-docs)**.
 
               - 🛡️ **Security and vulnerability disclosures.** <br>We take security seriously. Please use our managed **[Bug Bounty Programs](https://elemn.to/bug-bounty)** to responsibly report security issues.
 
-              - ☹️ **Complaints or offensive content.** <br>While we are open to feedback, this is not the appropriate place to submit complaints about Elementor's products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/CODE_OF_CONDUCT.md)**.
+              - ☹️ **Complaints or offensive content.** <br>While we are open to feedback, this is not the appropriate place to submit complaints about Elementor's products or services. We also do not tolerate offensive, discriminatory, or hostile remarks. Please keep discussions respectful as outlined in our **[Code of Conduct](https://elemn.to/gh-code-of-conduct)**.
 
               - ❌ **Incomplete, invalid, or out-of-scope reports.** <br>Issues without clear steps to reproduce, missing required fields, or unrelated to **Editor V4** will be closed without further action.
               </details>
