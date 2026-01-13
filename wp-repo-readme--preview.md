@@ -2,7 +2,7 @@
 > This document is just a preview of how the final WordPress Repository Description will look like.
 > This is not the final document. Formatting may be different. Use it only for reviewing the copy.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/le72grP_Q6k?si=wA4j4I9X8vGGBDTP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=le72grP_Q6k
 
 ## THE #1 NO CODE DRAG & DROP WORDPRESS WEBSITE BUILDER POWERING 20M+ WEBSITES WORLDWIDE, NOW WITH AI.
 
