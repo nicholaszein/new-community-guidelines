@@ -1,6 +1,7 @@
 > [!IMPORTANT]
 > This document is just a preview of how the final WordPress Repository Description will look like.
 > This is not the final document. Formatting may be different. Use it only for reviewing the copy.
+> The video link below is still pending to be changed. In the final document it will appear as an embed.
 
 https://www.youtube.com/watch?v=le72grP_Q6k
 
