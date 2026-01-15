@@ -7,9 +7,6 @@
 
 https://github.com/user-attachments/assets/209c9ce4-d727-499f-a294-0838fd54caee
 
-
-<video src="/.github/assets/elementor-one-optimized.mp4" data-canonical-src="https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/assets/elementor-one-optimized.mp4" controls muted class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video>
-
 ## THE #1 NO CODE DRAG & DROP WORDPRESS WEBSITE BUILDER POWERING 20M+ WEBSITES WORLDWIDE, NOW WITH AI.
 
 Elementor, the leading WordPress website creation platform, empowers you to build professional, pixel-perfect websites seamlessly with its no-code, drag-and-drop Editor.
@@ -28,7 +25,7 @@ Need fast and secure cloud hosting for your Elementor site? Try out **[Elementor
 - **[Advanced Widgets](https://go.elementor.com/feature-page-editor/)**: Access over 40 FREE widgets, including heading, image, text editor, video, button, gallery, carousels, and more.
 - **[AI Capabilities](https://go.elementor.com/wp-repo-description-tab-elementor-ai/)**: Revolutionize your design and content creation process with native AI integration. Instantly create sections, text, code, and images.
 
-= 🗝️ Key features: =
+### 🗝️ Key features:
 
 - **[Design System](https://go.elementor.com/feature-page-global-settings/)**: Use Elementor’s Design System for consistent colors, typography, and design elements, ensuring a cohesive, professional look.
 - **[Responsive Design](https://go.elementor.com/feature-page-responsive-design/)**: Optimize your design for every device with custom breakpoints, ensuring a seamless desktop, tablet, and mobile experience.
