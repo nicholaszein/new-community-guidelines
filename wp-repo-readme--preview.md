@@ -3,7 +3,8 @@
 > This is not the final document. Formatting may be different. Use it only for reviewing the copy.
 > The video link below is still pending to be changed. In the final document it will appear as an embed.
 
-https://www.youtube.com/watch?v=le72grP_Q6k
+
+<video autoplay muted playsinline loop controls controlslist="nodownload" src="/.github/assets/liquid-ether-1768397665817.mp4" poster="/.github/assets/elementor-github-cover.gif"></video>
 
 ## THE #1 NO CODE DRAG & DROP WORDPRESS WEBSITE BUILDER POWERING 20M+ WEBSITES WORLDWIDE, NOW WITH AI.
 
