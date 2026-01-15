@@ -4,6 +4,10 @@
 > The video link below is still pending to be changed. In the final document it will appear as an embed.
 
 
+
+https://github.com/user-attachments/assets/209c9ce4-d727-499f-a294-0838fd54caee
+
+
 <video src="/.github/assets/elementor-one-optimized.mp4" data-canonical-src="https://github.com/nicholaszein/new-community-guidelines/blob/main/.github/assets/elementor-one-optimized.mp4" controls muted class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video>
 
 ## THE #1 NO CODE DRAG & DROP WORDPRESS WEBSITE BUILDER POWERING 20M+ WEBSITES WORLDWIDE, NOW WITH AI.
