@@ -1,6 +1,6 @@
 # Security Policy
 
-<a href="https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=contribution">![logo](/.github/assets/elementor-logo--gh-repo.svg)</a>
+<a href="https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=contribution"><img src="/.github/assets/elementor-logo--gh-repo.svg" alt="Elementor Website Builder"></a>
 
 ## How to report Security Issues
 
