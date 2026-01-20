@@ -5,6 +5,7 @@ Requires at least: 6.7
 Tested up to: 6.9
 Requires PHP: 7.4
 Stable tag: 3.34.2
+Beta tag: 3.35.0-beta1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -350,6 +351,11 @@ You can also add a new language via [translate.wordpress.org](https://go.element
 6. **Motion Effects** - Add entrance animations and transitions to any element in your website to captivate visitors.
 
 == Changelog ==
+
+= 3.34.2 - 2026-01-20 =
+
+* Tweak: Unified the Elementor interface into a single place to manage, optimize, and configure Elementor capabilities in WordPress Admin
+* Tweak: Moved editor-related entry points under the unified Elementor menu in WordPress Admin
 
 = 3.34.1 - 2026-01-07 =
 
